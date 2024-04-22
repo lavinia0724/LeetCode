@@ -12,3 +12,6 @@
 
 ### DFS
 - [2024/04/21] 1971. Find if Path Exists in Graph
+
+### BFS
+- [2024/04/22] 752. Open the Lock
