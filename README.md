@@ -18,3 +18,6 @@
 
 ### Greedy
 - [2024/04/23] 2962. Count Subarrays Where Max Element Appears at Least K Times
+
+### Tree
+- [2024/04/23] 310. Minimum Height Trees
