@@ -15,3 +15,6 @@
 
 ### BFS
 - [2024/04/22] 752. Open the Lock
+
+### Greedy
+- [2024/04/23] 2962. Count Subarrays Where Max Element Appears at Least K Times
