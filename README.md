@@ -21,3 +21,6 @@
 
 ### Tree
 - [2024/04/23] 310. Minimum Height Trees
+
+### DP
+- [2024/04/26] 2370. Longest Ideal Subsequence.cpp
