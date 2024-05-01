@@ -1,5 +1,8 @@
 ## LeetCode
 
+### String
+- [2024/05/01] 2000. Reverse Prefix of Word
+
 ### Linked List
 - [2024/03/21] 206. Reverse Linked List
 - [2024/03/21] 234. Palindrome Linked List
