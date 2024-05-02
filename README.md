@@ -1,7 +1,11 @@
 ## LeetCode
 
+### Math
+- [2024/05/02] 1688. Count of Matches in Tournament
+
 ### String
 - [2024/05/01] 2000. Reverse Prefix of Word
+- [2024/05/02] 2442. Count Number of Distinct Integers After Reverse Operations
 
 ### Linked List
 - [2024/03/21] 206. Reverse Linked List
@@ -12,6 +16,7 @@
 - [2024/04/08] 1700. Number of Students Unable to Eat Lunch
 - [2024/04/09] 2073. Time Needed to Buy Tickets
 - [2024/04/10] 950. Reveal Cards In Increasing Order
+- [2024/05/02] 2441. Largest Positive Integer That Exists With Its Negative
 
 ### DFS
 - [2024/04/21] 1971. Find if Path Exists in Graph
