@@ -6,6 +6,7 @@
 ### String
 - [2024/05/01] 2000. Reverse Prefix of Word
 - [2024/05/02] 2442. Count Number of Distinct Integers After Reverse Operations
+- [2024/05/03] 165. Compare Version Numbers
 
 ### Linked List
 - [2024/03/21] 206. Reverse Linked List
