@@ -13,6 +13,7 @@
 - [2024/03/21] 234. Palindrome Linked List
 - [2024/03/24] 143. Reorder List
 - [2024/05/05] 237. Delete Node in a Linked List
+- [2024/05/06] 2487. Remove Nodes From Linked List
 
 ### STL
 - [2024/04/08] 1700. Number of Students Unable to Eat Lunch
