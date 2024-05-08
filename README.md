@@ -20,6 +20,7 @@
 - [2024/04/09] 2073. Time Needed to Buy Tickets
 - [2024/04/10] 950. Reveal Cards In Increasing Order
 - [2024/05/02] 2441. Largest Positive Integer That Exists With Its Negative
+- [2024/05/08] 506. Relative Ranks
 
 ### DFS
 - [2024/04/21] 1971. Find if Path Exists in Graph
