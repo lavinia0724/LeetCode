@@ -8,6 +8,10 @@
 - [2024/05/02] 2442. Count Number of Distinct Integers After Reverse Operations
 - [2024/05/03] 165. Compare Version Numbers
 
+### Greedy
+- [2024/04/23] 2962. Count Subarrays Where Max Element Appears at Least K Times
+- [2024/05/09] 3075. Maximize Happiness of Selected Children
+
 ### Linked List
 - [2024/03/21] 206. Reverse Linked List
 - [2024/03/21] 234. Palindrome Linked List
@@ -22,14 +26,11 @@
 - [2024/05/02] 2441. Largest Positive Integer That Exists With Its Negative
 - [2024/05/08] 506. Relative Ranks
 
-### DFS
-- [2024/04/21] 1971. Find if Path Exists in Graph
-
 ### BFS
 - [2024/04/22] 752. Open the Lock
 
-### Greedy
-- [2024/04/23] 2962. Count Subarrays Where Max Element Appears at Least K Times
+### DFS
+- [2024/04/21] 1971. Find if Path Exists in Graph
 
 ### Tree
 - [2024/04/23] 310. Minimum Height Trees
