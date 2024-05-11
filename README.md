@@ -33,6 +33,9 @@
 ### DFS
 - [2024/04/21] 1971. Find if Path Exists in Graph
 
+### Heap
+- [2024/05/11] 857. Minimum Cost to Hire K Workers
+
 ### Tree
 - [2024/04/23] 310. Minimum Height Trees
 
