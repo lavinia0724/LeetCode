@@ -25,7 +25,6 @@
 - [2024/04/10] 950. Reveal Cards In Increasing Order
 - [2024/05/02] 2441. Largest Positive Integer That Exists With Its Negative
 - [2024/05/08] 506. Relative Ranks
-- [2024/05/10] 786. K-th Smallest Prime Fraction
 
 ### BFS
 - [2024/04/22] 752. Open the Lock
@@ -34,6 +33,7 @@
 - [2024/04/21] 1971. Find if Path Exists in Graph
 
 ### Heap
+- [2024/05/10] 786. K-th Smallest Prime Fraction
 - [2024/05/11] 857. Minimum Cost to Hire K Workers
 
 ### Tree
