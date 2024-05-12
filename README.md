@@ -25,6 +25,7 @@
 - [2024/04/10] 950. Reveal Cards In Increasing Order
 - [2024/05/02] 2441. Largest Positive Integer That Exists With Its Negative
 - [2024/05/08] 506. Relative Ranks
+- [2024/05/12] 2373. Largest Local Values in a Matrix
 
 ### BFS
 - [2024/04/22] 752. Open the Lock
