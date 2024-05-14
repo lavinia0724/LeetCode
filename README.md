@@ -33,6 +33,7 @@
 
 ### DFS
 - [2024/04/21] 1971. Find if Path Exists in Graph
+- [2024/05/14] 1219. Path with Maximum Gold
 
 ### Heap
 - [2024/05/10] 786. K-th Smallest Prime Fraction
