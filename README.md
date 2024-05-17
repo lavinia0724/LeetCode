@@ -36,6 +36,7 @@
 - [2024/04/21] 1971. Find if Path Exists in Graph
 - [2024/05/14] 1219. Path with Maximum Gold
 - [2024/05/16] 2331. Evaluate Boolean Binary Tree
+- [2024/05/17] 1325. Delete Leaves With a Given Value
 
 ### Heap
 - [2024/05/10] 786. K-th Smallest Prime Fraction
