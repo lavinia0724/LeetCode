@@ -12,6 +12,7 @@
 - [2024/04/23] 2962. Count Subarrays Where Max Element Appears at Least K Times
 - [2024/05/09] 3075. Maximize Happiness of Selected Children
 - [2024/05/13] 861. Score After Flipping Matrix
+- [2024/05/19] 3068. Find the Maximum Sum of Node Values
 
 ### Linked List
 - [2024/03/21] 206. Reverse Linked List
