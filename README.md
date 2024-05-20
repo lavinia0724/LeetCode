@@ -2,6 +2,7 @@
 
 ### Math
 - [2024/05/02] 1688. Count of Matches in Tournament
+- [2024/05/20] 1863. Sum of All Subset XOR Totals
 
 ### String
 - [2024/05/01] 2000. Reverse Prefix of Word
