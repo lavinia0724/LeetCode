@@ -42,6 +42,9 @@
 - [2024/05/17] 1325. Delete Leaves With a Given Value
 - [2024/05/18] 979. Distribute Coins in Binary Tree
 
+### Backtracking
+- [2024/05/23] 2597. The Number of Beautiful Subsets
+
 ### Heap
 - [2024/05/10] 786. K-th Smallest Prime Fraction
 - [2024/05/11] 857. Minimum Cost to Hire K Workers
