@@ -43,6 +43,7 @@
 - [2024/05/18] 979. Distribute Coins in Binary Tree
 
 ### Backtracking
+- [2024/05/22] 131. Palindrome Partitioning
 - [2024/05/23] 2597. The Number of Beautiful Subsets
 
 ### Heap
