@@ -31,6 +31,9 @@
 - [2024/05/12] 2373. Largest Local Values in a Matrix
 - [2024/05/21] 78. Subsets
 
+### Binary Search
+- [2024/05/27] 1608. Special Array With X Elements Greater Than or Equal X
+
 ### BFS
 - [2024/04/22] 752. Open the Lock
 - [2024/05/15] 2812. Find the Safest Path in a Grid
