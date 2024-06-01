@@ -61,4 +61,4 @@
 - [2024/04/23] 310. Minimum Height Trees
 
 ### DP
-- [2024/04/26] 2370. Longest Ideal Subsequence.cpp
+- [2024/04/26] [2370. Longest Ideal Subsequence.cpp](https://lavinia0724.github.io/2024/04/25/LeetCode-2370-Longest-Ideal-Subsequence/)
