@@ -1,8 +1,10 @@
 ## LeetCode
 
+有連結的題目是我有針對解法寫一篇部落格文章，可以參考看看
+
 ### Math
 - [2024/05/02] 1688. Count of Matches in Tournament
-- [2024/05/20] 1863. Sum of All Subset XOR Totals
+- [2024/05/20] [1863. Sum of All Subset XOR Totals](https://lavinia0724.github.io/2024/05/20/LeetCode-1863-Sum-of-All-Subset-XOR-Totals/)
 
 ### String
 - [2024/05/01] 2000. Reverse Prefix of Word
