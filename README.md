@@ -11,6 +11,7 @@
 - [2024/05/02] 2442. Count Number of Distinct Integers After Reverse Operations
 - [2024/05/03] 165. Compare Version Numbers
 - [2024/06/01] 3110. Score of a String
+- [2024/06/03] 2486. Append Characters to String to Make Subsequence
 
 ### Greedy
 - [2024/04/23] 2962. Count Subarrays Where Max Element Appears at Least K Times
