@@ -1,8 +1,10 @@
 ## LeetCode
 
+有連結的題目是我有針對解法寫一篇部落格文章，可以參考看看
+
 ### Math
 - [2024/05/02] 1688. Count of Matches in Tournament
-- [2024/05/20] 1863. Sum of All Subset XOR Totals
+- [2024/05/20] [1863. Sum of All Subset XOR Totals](https://lavinia0724.github.io/2024/05/20/LeetCode-1863-Sum-of-All-Subset-XOR-Totals/)
 
 ### String
 - [2024/05/01] 2000. Reverse Prefix of Word
@@ -10,6 +12,8 @@
 - [2024/05/03] 165. Compare Version Numbers
 - [2024/06/01] 3110. Score of a String
 - [2024/06/02] 344. Reverse String
+- [2024/06/03] 2486. Append Characters to String to Make Subsequence
+- [2024/06/05] 1002. Find Common Characters
 
 ### Greedy
 - [2024/04/23] 2962. Count Subarrays Where Max Element Appears at Least K Times
@@ -60,4 +64,4 @@
 - [2024/04/23] 310. Minimum Height Trees
 
 ### DP
-- [2024/04/26] 2370. Longest Ideal Subsequence.cpp
+- [2024/04/26] [2370. Longest Ideal Subsequence.cpp](https://lavinia0724.github.io/2024/04/25/LeetCode-2370-Longest-Ideal-Subsequence/)
