@@ -24,6 +24,7 @@
 
 ### PrefixSum
 - [2024/06/08] 523. Continuous Subarray Sum
+- [2024/06/09] 974. Subarray Sums Divisible by K
 
 ### Linked List
 - [2024/03/21] 206. Reverse Linked List
