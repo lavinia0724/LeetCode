@@ -24,7 +24,7 @@
 
 ### PrefixSum
 - [2024/06/08] 523. Continuous Subarray Sum
-- [2024/06/09] 974. Subarray Sums Divisible by K
+- [2024/06/09] [974. Subarray Sums Divisible by K](https://lavinia0724.github.io/2024/06/09/LeetCode-974-Subarray-Sums-Divisible-by-K/)
 
 ### Linked List
 - [2024/03/21] 206. Reverse Linked List
