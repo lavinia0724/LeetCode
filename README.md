@@ -45,6 +45,7 @@
 - [2024/06/06] 846. Hand of Straights
 - [2024/06/06] 1296. Divide Array in Sets of K Consecutive Numbers
 - [2024/06/10] 1051. Height Checker
+- [2024/06/14] 75. Sort Colors
 
 ### Binary Search
 - [2024/05/27] 1608. Special Array With X Elements Greater Than or Equal X
