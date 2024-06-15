@@ -69,6 +69,7 @@
 ### Heap
 - [2024/05/10] 786. K-th Smallest Prime Fraction
 - [2024/05/11] 857. Minimum Cost to Hire K Workers
+- [2024/06/15] 502. IPO
 
 ### Tree
 - [2024/04/23] 310. Minimum Height Trees
