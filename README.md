@@ -22,6 +22,7 @@
 - [2024/05/13] 861. Score After Flipping Matrix
 - [2024/05/19] 3068. Find the Maximum Sum of Node Values
 - [2024/06/14] 2037. Minimum Number of Moves to Seat Everyone
+- [2024/06/17] 330. Patching Array
 
 ### PrefixSum
 - [2024/06/08] 523. Continuous Subarray Sum
