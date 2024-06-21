@@ -1,4 +1,5 @@
 # 2024/06/15
+# Solution Top 1 的解法，牛逼！
 class Solution(object):
     def findMaximizedCapital(self, k, w, profits, capital):
         """
