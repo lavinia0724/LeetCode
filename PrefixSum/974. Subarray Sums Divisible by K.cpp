@@ -12,8 +12,6 @@ public:
             // 因為可能有負數，所以 (nums[i-1] + k) % k
             prefixSum = (prefixSum + (nums[i] % k) + k) % k;
 
-            // cout << prefixSum << endl;
-     
             ans += modSeen[prefixSum];
             modSeen[prefixSum]++;
         }
