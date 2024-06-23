@@ -1,4 +1,4 @@
-// 2024/06/09
+// 2024/06/08
 class Solution {
 public:
     bool checkSubarraySum(vector<int>& nums, int k) {
@@ -18,7 +18,6 @@ public:
             // ((Q1 - Q2) * k + (R1 - R2)) % k == 0
             // prefix[j] % k == prefix[i] % k 
             prefixSum[i] %= k;
-            cout << prefixSum[i] << endl;
 
             if(modSeen.find(prefixSum[i]) != modSeen.end()){
                 if(i - modSeen[prefixSum[i]] > 1) return true;
