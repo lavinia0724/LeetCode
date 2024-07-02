@@ -49,6 +49,7 @@
 - [2024/06/06] 1296. Divide Array in Sets of K Consecutive Numbers
 - [2024/06/10] 1051. Height Checker
 - [2024/06/13] 75. Sort Colors
+- [2024/07/03] 350. Intersection of Two Arrays II
 
 ### Binary Search
 - [2024/05/27] 1608. Special Array With X Elements Greater Than or Equal X
