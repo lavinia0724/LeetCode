@@ -23,6 +23,7 @@
 - [2024/05/13] 861. Score After Flipping Matrix
 - [2024/05/19] 3068. Find the Maximum Sum of Node Values
 - [2024/06/14] 2037. Minimum Number of Moves to Seat Everyone
+- [2024/06/15] 945. Minimum Increment to Make Array Unique
 - [2024/06/17] [330. Patching Array](https://lavinia0724.github.io/2024/06/17/LeetCode-330-Patching-Array/)
 - [2024/07/03] 1509. Minimum Difference Between Largest and Smallest Value in Three Moves
 
