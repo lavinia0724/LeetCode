@@ -38,6 +38,7 @@
 - [2024/05/05] 237. Delete Node in a Linked List
 - [2024/05/06] 2487. Remove Nodes From Linked List
 - [2024/07/04] 2181. Merge Nodes in Between Zeros
+- [2024/07/05] 2058. Find the Minimum and Maximum Number of Nodes Between Critical Points
 
 ### STL
 - [2024/04/08] 1700. Number of Students Unable to Eat Lunch
