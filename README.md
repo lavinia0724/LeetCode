@@ -5,7 +5,8 @@
 ### Math
 - [2024/05/02] 1688. Count of Matches in Tournament
 - [2024/05/20] [1863. Sum of All Subset XOR Totals](https://lavinia0724.github.io/2024/05/20/LeetCode-1863-Sum-of-All-Subset-XOR-Totals/)
-- [2024/26/17] 633. Sum of Square Numbers
+- [2024/06/17] 633. Sum of Square Numbers
+- [2024/07/06] 2582. Pass the Pillow
 
 ### String
 - [2024/05/01] 2000. Reverse Prefix of Word
