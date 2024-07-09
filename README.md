@@ -2,6 +2,9 @@
 
 有連結的題目是我有針對解法寫一篇部落格文章，可以參考看看
 
+### Simulation
+- [2024/07/09] 1701. Average Waiting Time
+
 ### Math
 - [2024/05/02] 1688. Count of Matches in Tournament
 - [2024/05/20] [1863. Sum of All Subset XOR Totals](https://lavinia0724.github.io/2024/05/20/LeetCode-1863-Sum-of-All-Subset-XOR-Totals/)
@@ -76,7 +79,7 @@
 - [2024/05/22] 131. Palindrome Partitioning
 - [2024/05/23] 2597. The Number of Beautiful Subsets
 
-### 
+### Josphus
 - [2024/07/08] 1823. Find the Winner of the Circular Game
 
 ### Heap
