@@ -60,6 +60,7 @@
 - [2024/06/10] 1051. Height Checker
 - [2024/06/13] 75. Sort Colors
 - [2024/07/03] 350. Intersection of Two Arrays II
+- [2024/07/10] 1598. Crawler Log Folder
 
 ### Binary Search
 - [2024/05/27] 1608. Special Array With X Elements Greater Than or Equal X
