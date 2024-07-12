@@ -32,6 +32,7 @@
 - [2024/06/15] 945. Minimum Increment to Make Array Unique
 - [2024/06/17] [330. Patching Array](https://lavinia0724.github.io/2024/06/17/LeetCode-330-Patching-Array/)
 - [2024/07/03] 1509. Minimum Difference Between Largest and Smallest Value in Three Moves
+- [2024/07/12] 1717. Maximum Score From Removing Substrings
 
 ### PrefixSum
 - [2024/06/08] [523. Continuous Subarray Sum](https://lavinia0724.github.io/2024/06/08/LeetCode-523-Continuous-Subarray-Sum/)
