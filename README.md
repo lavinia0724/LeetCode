@@ -4,6 +4,7 @@
 
 ### Simulation
 - [2024/07/09] 1701. Average Waiting Time
+- [2024/07/13] 2751. Robot Collisions
 
 ### Math
 - [2024/05/02] 1688. Count of Matches in Tournament
