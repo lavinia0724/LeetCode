@@ -64,6 +64,7 @@
 - [2024/07/03] 350. Intersection of Two Arrays II
 - [2024/07/10] 1598. Crawler Log Folder
 - [2024/07/11] 1190. Reverse Substrings Between Each Pair of Parentheses
+- [2024/07/14] 726. Number of Atoms
 
 ### Binary Search
 - [2024/05/27] 1608. Special Array With X Elements Greater Than or Equal X
