@@ -2,6 +2,9 @@
 
 有連結的題目是我有針對解法寫一篇部落格文章，可以參考看看
 
+### Matrix
+- [2024/07/19] 1380. Lucky Numbers in a Matrix
+
 ### Simulation
 - [2024/07/09] 1701. Average Waiting Time
 - [2024/07/13] 2751. Robot Collisions
