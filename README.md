@@ -4,6 +4,7 @@
 
 ### Matrix
 - [2024/07/19] 1380. Lucky Numbers in a Matrix
+- [2024/07/20] 1605. Find Valid Matrix Given Row and Column Sums
 
 ### Simulation
 - [2024/07/09] 1701. Average Waiting Time
