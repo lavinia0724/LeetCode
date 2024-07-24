@@ -102,6 +102,7 @@
 ### Tree
 - [2024/04/23] 310. Minimum Height Trees
 - [2024/07/18] 1530. Number of Good Leaf Nodes Pairs
+- [2024/07/24] 2096. Step-By-Step Directions From a Binary Tree Node to Another
 
 ### DP
 - [2024/04/26] [2370. Longest Ideal Subsequence.cpp](https://lavinia0724.github.io/2024/04/25/LeetCode-2370-Longest-Ideal-Subsequence/)
