@@ -71,6 +71,7 @@
 - [2024/07/11] 1190. Reverse Substrings Between Each Pair of Parentheses
 - [2024/07/14] 726. Number of Atoms
 - [2024/07/24] 1636. Sort Array by Increasing Frequency
+- [2024/07/24] 2418. Sort the People
 
 ### Binary Search
 - [2024/05/27] 1608. Special Array With X Elements Greater Than or Equal X
