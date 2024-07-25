@@ -5,6 +5,8 @@
 ### Sorting
 - [2024/07/25] 912. Sort an Array
 
+- [2024/07/25] 2392. Build a Matrix With Conditions
+
 ### Matrix
 - [2024/07/19] 1380. Lucky Numbers in a Matrix
 - [2024/07/20] 1605. Find Valid Matrix Given Row and Column Sums
