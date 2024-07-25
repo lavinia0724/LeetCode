@@ -2,6 +2,9 @@
 
 有連結的題目是我有針對解法寫一篇部落格文章，可以參考看看
 
+### Sorting
+- [2024/07/25] 912. Sort an Array
+
 ### Matrix
 - [2024/07/19] 1380. Lucky Numbers in a Matrix
 - [2024/07/20] 1605. Find Valid Matrix Given Row and Column Sums
