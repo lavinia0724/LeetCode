@@ -5,6 +5,7 @@
 ### Sorting
 - [2024/07/25] 912. Sort an Array
 
+### Topological Sort
 - [2024/07/25] 2392. Build a Matrix With Conditions
 
 ### Matrix
@@ -103,6 +104,9 @@
 - [2024/05/10] 786. K-th Smallest Prime Fraction
 - [2024/05/11] 857. Minimum Cost to Hire K Workers
 - [2024/06/15] [502. IPO](https://lavinia0724.github.io/2024/06/15/LeetCode-502-IPO/)
+
+### SPFA
+- [2024/07/26] 1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance
 
 ### Tree
 - [2024/04/23] 310. Minimum Height Trees
