@@ -12,6 +12,7 @@
 - [2024/07/19] 1380. Lucky Numbers in a Matrix
 - [2024/07/20] 1605. Find Valid Matrix Given Row and Column Sums
 - [2024/07/24] 2191. Sort the Jumbled Numbers
+- [2024/07/29] 1395. Count Number of Teams
 
 ### Simulation
 - [2024/07/09] 1701. Average Waiting Time
