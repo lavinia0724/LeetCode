@@ -35,6 +35,7 @@
 - [2024/06/03] 2486. Append Characters to String to Make Subsequence
 - [2024/06/05] 1002. Find Common Characters
 - [2024/06/07] 648. Replace Words
+- [2024/07/30] 1653. Minimum Deletions to Make String Balanced
 
 ### Greedy
 - [2024/04/23] 2962. Count Subarrays Where Max Element Appears at Least K Times
