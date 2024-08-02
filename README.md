@@ -18,6 +18,9 @@
 - [2024/07/09] 1701. Average Waiting Time
 - [2024/07/13] 2751. Robot Collisions
 
+### Sliding Window
+- [2024/08/02] 2134. Minimum Swaps to Group All 1's Together II
+
 ### Math
 - [2024/05/02] 1688. Count of Matches in Tournament
 - [2024/05/20] [1863. Sum of All Subset XOR Totals](https://lavinia0724.github.io/2024/05/20/LeetCode-1863-Sum-of-All-Subset-XOR-Totals/)
