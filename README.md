@@ -4,6 +4,7 @@
 
 ### Sorting
 - [2024/07/25] 912. Sort an Array
+- [2024/08/03] 1460. Make Two Arrays Equal by Reversing Subarrays
 
 ### Topological Sort
 - [2024/07/25] 2392. Build a Matrix With Conditions
