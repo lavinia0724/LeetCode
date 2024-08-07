@@ -43,6 +43,7 @@
 - [2024/07/30] 1653. Minimum Deletions to Make String Balanced
 - [2024/08/01] 2678. Number of Senior Citizens
 - [2024/08/05] 2053. Kth Distinct String in an Array
+- [2024/08/07] 273. Integer to English Words
 
 ### Greedy
 - [2024/04/23] 2962. Count Subarrays Where Max Element Appears at Least K Times
