@@ -2,6 +2,9 @@
 
 有連結的題目是我有針對解法寫一篇部落格文章，可以參考看看
 
+### Hash Table
+- [2024/08/06] 3016. Minimum Number of Pushes to Type Word II
+
 ### Sorting
 - [2024/07/25] 912. Sort an Array
 - [2024/08/03] 1460. Make Two Arrays Equal by Reversing Subarrays
