@@ -22,6 +22,7 @@
 ### Simulation
 - [2024/07/09] 1701. Average Waiting Time
 - [2024/07/13] 2751. Robot Collisions
+- [2024/08/08] 885. Spiral Matrix III
 
 ### Sliding Window
 - [2024/08/02] 2134. Minimum Swaps to Group All 1's Together II
