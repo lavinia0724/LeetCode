@@ -18,6 +18,7 @@
 - [2024/07/20] 1605. Find Valid Matrix Given Row and Column Sums
 - [2024/07/24] 2191. Sort the Jumbled Numbers
 - [2024/07/29] 1395. Count Number of Teams
+- [2024/08/10] 959. Regions Cut By Slashes
 
 ### Simulation
 - [2024/07/09] 1701. Average Waiting Time
