@@ -134,3 +134,4 @@
 ### DP
 - [2024/04/26] [2370. Longest Ideal Subsequence.cpp](https://lavinia0724.github.io/2024/04/25/LeetCode-2370-Longest-Ideal-Subsequence/)
 - [2024/07/31] 1105. Filling Bookcase Shelves
+- [2024/08/21] 664. Strange Printer
