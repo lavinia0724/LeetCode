@@ -37,6 +37,9 @@
 - [2024/07/07] 1518. Water Bottles
 - [2024/07/07] 1550. Three Consecutive Odds
 
+### Bit Manipulation
+- [2024/08/22] 476. Number Complement
+
 ### String
 - [2024/05/01] 2000. Reverse Prefix of Word
 - [2024/05/02] 2442. Count Number of Distinct Integers After Reverse Operations
