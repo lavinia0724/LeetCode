@@ -131,6 +131,7 @@
 - [2024/07/27] 2976. Minimum Cost to Convert String I
 - [2024/07/28] 2045. Second Minimum Time to Reach Destination
 - [2024/08/27] 1514. Path with Maximum Probability
+- [2024/08/30] 2699. Modify Graph Edge Weights
 
 ### SPFA
 - [2024/07/26] 1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance
