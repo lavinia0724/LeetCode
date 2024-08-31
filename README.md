@@ -114,6 +114,7 @@
 - [2024/05/16] 2331. Evaluate Boolean Binary Tree
 - [2024/05/17] 1325. Delete Leaves With a Given Value
 - [2024/05/18] 979. Distribute Coins in Binary Tree
+- [2024/08/28] 1905. Count Sub Islands
 - [2024/08/29] 947. Most Stones Removed with Same Row or Column
 
 ### Backtracking
