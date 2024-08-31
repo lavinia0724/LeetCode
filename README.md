@@ -145,6 +145,7 @@
 
 ### Binary Tree
 - [2024/08/25] 145. Binary Tree Postorder Traversal
+- [2024/08/27] 590. N-ary Tree Postorder Traversal
 
 ### DP
 - [2024/04/26] [2370. Longest Ideal Subsequence.cpp](https://lavinia0724.github.io/2024/04/25/LeetCode-2370-Longest-Ideal-Subsequence/)
