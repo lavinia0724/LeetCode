@@ -28,6 +28,7 @@
 - [2024/07/13] 2751. Robot Collisions
 - [2024/08/08] 885. Spiral Matrix III
 - [2024/09/04] 874. Walking Robot Simulation
+- [2024/09/05] 2028. Find Missing Observations
 
 ### Sliding Window
 - [2024/08/02] 2134. Minimum Swaps to Group All 1's Together II
