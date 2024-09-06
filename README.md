@@ -10,6 +10,7 @@
 - [2024/07/25] 912. Sort an Array
 - [2024/08/03] 1460. Make Two Arrays Equal by Reversing Subarrays
 - [2024/08/04] 1508. Range Sum of Sorted Subarray Sums
+- [2024/09/06] 88. Merge Sorted Array
 
 ### Topological Sort
 - [2024/07/25] 2392. Build a Matrix With Conditions
