@@ -22,6 +22,7 @@
 - [2024/08/09] 840. Magic Squares In Grid
 - [2024/08/10] 959. Regions Cut By Slashes
 - [2024/09/01] 2022. Convert 1D Array Into 2D Array
+- [2024/09/06] 27. Remove Element
 
 ### Simulation
 - [2024/07/09] 1701. Average Waiting Time
