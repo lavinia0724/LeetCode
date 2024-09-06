@@ -86,6 +86,7 @@
 - [2024/07/05] 2058. Find the Minimum and Maximum Number of Nodes Between Critical Points
 - [2024/09/06] 3217. Delete Nodes From Linked List Present in Array
 - [2024/09/06] 203. Remove Linked List Elements
+- [2024/09/06] 2095. Delete the Middle Node of a Linked List
 
 ### STL
 - [2024/04/08] 1700. Number of Students Unable to Eat Lunch
