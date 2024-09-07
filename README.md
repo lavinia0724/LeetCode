@@ -7,6 +7,7 @@
 - [2024/08/31] 1. Two Sum
 
 ### Two Pointer
+- [2024/09/07] 26. Remove Duplicates from Sorted Array
 - [2024/09/07] 80. Remove Duplicates from Sorted Array II
 
 ### Sorting
