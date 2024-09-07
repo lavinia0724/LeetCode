@@ -6,6 +6,9 @@
 - [2024/08/06] 3016. Minimum Number of Pushes to Type Word II
 - [2024/08/31] 1. Two Sum
 
+### Two Pointer
+- [2024/09/07] 80. Remove Duplicates from Sorted Array II
+
 ### Sorting
 - [2024/07/25] 912. Sort an Array
 - [2024/08/03] 1460. Make Two Arrays Equal by Reversing Subarrays
