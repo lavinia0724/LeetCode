@@ -94,6 +94,7 @@
 - [2024/09/06] 203. Remove Linked List Elements
 - [2024/09/06] 2095. Delete the Middle Node of a Linked List
 - [2024/09/07] 1367. Linked List in Binary Tree
+- [2024/09/08] 725. Split Linked List in Parts
 
 ### STL
 - [2024/04/08] 1700. Number of Students Unable to Eat Lunch
