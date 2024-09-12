@@ -65,6 +65,7 @@
 - [2024/08/07] 273. Integer to English Words
 - [2024/08/23] 592. Fraction Addition and Subtraction
 - [2024/09/03] 1945. Sum of Digits of String After Convert
+- [2024/09/12] 1684. Count the Number of Consistent Strings
 
 ### Greedy
 - [2024/04/23] 2962. Count Subarrays Where Max Element Appears at Least K Times
