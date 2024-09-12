@@ -96,6 +96,7 @@
 - [2024/09/06] 2095. Delete the Middle Node of a Linked List
 - [2024/09/07] 1367. Linked List in Binary Tree
 - [2024/09/08] 725. Split Linked List in Parts
+- [2024/09/11] 2326. Spiral Matrix IV
 
 ### STL
 - [2024/04/08] 1700. Number of Students Unable to Eat Lunch
