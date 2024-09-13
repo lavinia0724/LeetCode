@@ -35,6 +35,7 @@
 - [2024/08/08] 885. Spiral Matrix III
 - [2024/09/04] 874. Walking Robot Simulation
 - [2024/09/05] 2028. Find Missing Observations
+- [2024/09/11] 2326. Spiral Matrix IV
 - [2024/09/13] 54. Spiral Matrix
 
 ### Sliding Window
@@ -100,7 +101,6 @@
 - [2024/09/07] 1367. Linked List in Binary Tree
 - [2024/09/08] 725. Split Linked List in Parts
 - [2024/09/10] 2807. Insert Greatest Common Divisors in Linked List
-- [2024/09/11] 2326. Spiral Matrix IV
 
 ### STL
 - [2024/04/08] 1700. Number of Students Unable to Eat Lunch
