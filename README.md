@@ -50,6 +50,7 @@
 ### Bit Manipulation
 - [2024/08/22] 476. Number Complement
 - [2024/09/11] 2220. Minimum Bit Flips to Convert Number
+- [2024/09/13] 1310. XOR Queries of a Subarray
 
 ### String
 - [2024/05/01] 2000. Reverse Prefix of Word
