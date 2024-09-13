@@ -35,6 +35,7 @@
 - [2024/08/08] 885. Spiral Matrix III
 - [2024/09/04] 874. Walking Robot Simulation
 - [2024/09/05] 2028. Find Missing Observations
+- [2024/09/13] 54. Spiral Matrix
 
 ### Sliding Window
 - [2024/08/02] 2134. Minimum Swaps to Group All 1's Together II
