@@ -53,6 +53,7 @@
 - [2024/08/22] 476. Number Complement
 - [2024/09/11] 2220. Minimum Bit Flips to Convert Number
 - [2024/09/13] 1310. XOR Queries of a Subarray
+- [2024/09/14] 201. Bitwise AND of Numbers Range
 - [2024/09/14] 2419. Longest Subarray With Maximum Bitwise AND
 
 ### String
