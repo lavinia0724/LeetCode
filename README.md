@@ -5,6 +5,7 @@
 ### Hash Table
 - [2024/08/06] 3016. Minimum Number of Pushes to Type Word II
 - [2024/08/31] 1. Two Sum
+- [2024/09/17] 884. Uncommon Words from Two Sentences
 
 ### Two Pointer
 - [2024/09/07] 26. Remove Duplicates from Sorted Array
