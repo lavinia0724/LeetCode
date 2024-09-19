@@ -141,6 +141,7 @@
 - [2024/05/18] 979. Distribute Coins in Binary Tree
 - [2024/08/28] 1905. Count Sub Islands
 - [2024/08/29] 947. Most Stones Removed with Same Row or Column
+- [2024/09/19] 241. Different Ways to Add Parentheses
 
 ### Backtracking
 - [2024/05/22] 131. Palindrome Partitioning
