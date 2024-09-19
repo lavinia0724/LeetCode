@@ -16,6 +16,7 @@
 - [2024/08/03] 1460. Make Two Arrays Equal by Reversing Subarrays
 - [2024/08/04] 1508. Range Sum of Sorted Subarray Sums
 - [2024/09/06] 88. Merge Sorted Array
+- [2024/09/16] 539. Minimum Time Difference
 - [2024/09/18] 179. Largest Number
 
 ### Topological Sort
