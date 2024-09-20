@@ -77,6 +77,9 @@
 - [2024/09/03] 1945. Sum of Digits of String After Convert
 - [2024/09/12] 1684. Count the Number of Consistent Strings
 
+### KMP Algorithm
+- [2024/09/20] 214. Shortest Palindrome
+
 ### Greedy
 - [2024/04/23] 2962. Count Subarrays Where Max Element Appears at Least K Times
 - [2024/05/09] 3075. Maximize Happiness of Selected Children
