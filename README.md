@@ -51,6 +51,7 @@
 - [2024/07/06] 2582. Pass the Pillow
 - [2024/07/07] 1518. Water Bottles
 - [2024/07/07] 1550. Three Consecutive Odds
+- [2024/09/21] 386. Lexicographical Numbers
 
 ### Bit Manipulation
 - [2024/08/22] 476. Number Complement
