@@ -6,10 +6,16 @@
 - [2024/08/06] 3016. Minimum Number of Pushes to Type Word II
 - [2024/08/31] 1. Two Sum
 - [2024/09/17] 884. Uncommon Words from Two Sentences
+- [2024/10/01] 1497. Check If Array Pairs Are Divisible by k
+- [2024/10/01] 432. All O'one Data Structure
+- [2024/10/02] 1331. Rank Transform of an Array
+- [2024/10/03] 1590. Make Sum Divisible by P
+- [2024/10/04] 2491. Divide Players Into Teams of Equal Skill
 
 ### Two Pointer
 - [2024/09/07] 26. Remove Duplicates from Sorted Array
 - [2024/09/07] 80. Remove Duplicates from Sorted Array II
+- [2024/10/06] 1813. Sentence Similarity III
 
 ### Sorting
 - [2024/07/25] 912. Sort an Array
@@ -40,9 +46,11 @@
 - [2024/09/05] 2028. Find Missing Observations
 - [2024/09/11] 2326. Spiral Matrix IV
 - [2024/09/13] 54. Spiral Matrix
+- [2024/09/30] 1381. Design a Stack With Increment Operation
 
 ### Sliding Window
 - [2024/08/02] 2134. Minimum Swaps to Group All 1's Together II
+- [2024/10/06] 567. Permutation in String
 
 ### Math
 - [2024/05/02] 1688. Count of Matches in Tournament
@@ -52,6 +60,7 @@
 - [2024/07/07] 1518. Water Bottles
 - [2024/07/07] 1550. Three Consecutive Odds
 - [2024/09/21] 386. Lexicographical Numbers
+- [2024/09/21] 9. Palindrome Number
 
 ### Bit Manipulation
 - [2024/08/22] 476. Number Complement
@@ -92,6 +101,11 @@
 - [2024/07/03] 1509. Minimum Difference Between Largest and Smallest Value in Three Moves
 - [2024/07/12] 1717. Maximum Score From Removing Substrings
 
+### Interval Scheduling
+- [2024/09/27] 729. My Calendar I
+- [2024/09/27] 731. My Calendar II
+
+
 ### PrefixSum
 - [2024/06/08] [523. Continuous Subarray Sum](https://lavinia0724.github.io/2024/06/08/LeetCode-523-Continuous-Subarray-Sum/)
 - [2024/06/09] [974. Subarray Sums Divisible by K](https://lavinia0724.github.io/2024/06/09/LeetCode-974-Subarray-Sums-Divisible-by-K/)
@@ -111,6 +125,7 @@
 - [2024/09/07] 1367. Linked List in Binary Tree
 - [2024/09/08] 725. Split Linked List in Parts
 - [2024/09/10] 2807. Insert Greatest Common Divisors in Linked List
+- [2024/09/28] 641. Design Circular Deque
 
 ### STL
 - [2024/04/08] 1700. Number of Students Unable to Eat Lunch
@@ -177,6 +192,11 @@
 - [2024/07/18] 1530. Number of Good Leaf Nodes Pairs
 - [2024/07/24] 2096. Step-By-Step Directions From a Binary Tree Node to Another
 
+### Trie
+- [2024/09/22] 440. K-th Smallest in Lexicographical Order
+- [2024/09/24] 3043. Find the Length of the Longest Common Prefix
+- [2024/09/25] 2416. Sum of Prefix Scores of Strings
+
 ### Binary Tree
 - [2024/08/25] 145. Binary Tree Postorder Traversal
 - [2024/08/26] 590. N-ary Tree Postorder Traversal
@@ -186,3 +206,4 @@
 - [2024/07/31] 1105. Filling Bookcase Shelves
 - [2024/08/20] 1140. Stone Game II
 - [2024/08/21] 664. Strange Printer
+- [2024/10/01] 2707. Extra Characters in a String
