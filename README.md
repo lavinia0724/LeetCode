@@ -24,6 +24,7 @@
 - [2024/09/06] 88. Merge Sorted Array
 - [2024/09/16] 539. Minimum Time Difference
 - [2024/09/18] 179. Largest Number
+- [2024/10/07] 2696. Minimum String Length After Removing Substrings
 
 ### Topological Sort
 - [2024/07/25] 2392. Build a Matrix With Conditions
@@ -147,6 +148,7 @@
 - [2024/07/24] 1636. Sort Array by Increasing Frequency
 - [2024/07/24] 2418. Sort the People
 - [2024/08/12] 703. Kth Largest Element in a Stream
+- [2024/10/08] 1963. Minimum Number of Swaps to Make the String Balanced
 
 ### Binary Search
 - [2024/05/27] 1608. Special Array With X Elements Greater Than or Equal X

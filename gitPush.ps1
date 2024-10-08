@@ -12,7 +12,7 @@ $newFiles = git status --porcelain | Where-Object { $_ -match '^\s*A\s' } | ForE
 $displayFiles = $newFiles -replace ' ', '_'
 
 # Commit changes with correct handling of filenames
-git commit -m "add $($displayFiles -join ', ')" -- $newFiles
+git commit -m "add $($displayFiles -join ', ')"
 
 # Push changes to the main branch
 git push -u origin main
