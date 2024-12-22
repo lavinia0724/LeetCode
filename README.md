@@ -106,6 +106,7 @@
 ### Interval Scheduling
 - [2024/09/27] 729. My Calendar I
 - [2024/09/27] 731. My Calendar II
+- [2024/12/22] 2406. Divide Intervals Into Minimum Number of Groups
 
 
 ### PrefixSum
