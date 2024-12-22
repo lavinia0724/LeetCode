@@ -101,6 +101,7 @@
 - [2024/06/17] [330. Patching Array](https://lavinia0724.github.io/2024/06/17/LeetCode-330-Patching-Array/)
 - [2024/07/03] 1509. Minimum Difference Between Largest and Smallest Value in Three Moves
 - [2024/07/12] 1717. Maximum Score From Removing Substrings
+- [2024/12/22] 1942. The Number of the Smallest Unoccupied Chair
 
 ### Interval Scheduling
 - [2024/09/27] 729. My Calendar I
