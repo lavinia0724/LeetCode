@@ -108,7 +108,6 @@
 - [2024/09/27] 731. My Calendar II
 - [2024/12/22] 2406. Divide Intervals Into Minimum Number of Groups
 
-
 ### PrefixSum
 - [2024/06/08] [523. Continuous Subarray Sum](https://lavinia0724.github.io/2024/06/08/LeetCode-523-Continuous-Subarray-Sum/)
 - [2024/06/09] [974. Subarray Sums Divisible by K](https://lavinia0724.github.io/2024/06/09/LeetCode-974-Subarray-Sums-Divisible-by-K/)
@@ -151,6 +150,8 @@
 - [2024/07/24] 2418. Sort the People
 - [2024/08/12] 703. Kth Largest Element in a Stream
 - [2024/10/08] 1963. Minimum Number of Swaps to Make the String Balanced
+- [2024/10/10] 921. Minimum Add to Make Parentheses Valid
+- [2024/10/10] 962. Maximum Width Ramp
 
 ### Binary Search
 - [2024/05/27] 1608. Special Array With X Elements Greater Than or Equal X
