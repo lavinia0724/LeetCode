@@ -215,3 +215,4 @@
 - [2024/08/20] 1140. Stone Game II
 - [2024/08/21] 664. Strange Printer
 - [2024/10/01] 2707. Extra Characters in a String
+- [2024/12/26] 494. Target Sum
