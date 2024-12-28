@@ -217,3 +217,4 @@
 - [2024/08/21] 664. Strange Printer
 - [2024/10/01] 2707. Extra Characters in a String
 - [2024/12/26] 494. Target Sum
+- [2024/12/27] 1014. Best Sightseeing Pair
