@@ -218,3 +218,4 @@
 - [2024/10/01] 2707. Extra Characters in a String
 - [2024/12/26] 494. Target Sum
 - [2024/12/27] 1014. Best Sightseeing Pair
+- [2024/12/29] 1639. Number of Ways to Form a Target String Given a Dictionary
