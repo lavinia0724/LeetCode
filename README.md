@@ -113,6 +113,7 @@
 - [2024/06/08] [523. Continuous Subarray Sum](https://lavinia0724.github.io/2024/06/08/LeetCode-523-Continuous-Subarray-Sum/)
 - [2024/06/09] [974. Subarray Sums Divisible by K](https://lavinia0724.github.io/2024/06/09/LeetCode-974-Subarray-Sums-Divisible-by-K/)
 - [2024/09/02] 1894. Find the Student that Will Replace the Chalk
+- [2025/01/05] 2381. Shifting Letters II
 
 ### Linked List
 - [2024/03/21] 206. Reverse Linked List
