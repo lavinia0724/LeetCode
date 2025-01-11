@@ -88,6 +88,7 @@
 - [2024/08/23] 592. Fraction Addition and Subtraction
 - [2024/09/03] 1945. Sum of Digits of String After Convert
 - [2024/09/12] 1684. Count the Number of Consistent Strings
+- [2025/01/08] 3042. Count Prefix and Suffix Pairs I
 
 ### KMP Algorithm
 - [2024/09/20] 214. Shortest Palindrome
