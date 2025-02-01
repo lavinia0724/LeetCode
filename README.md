@@ -30,6 +30,7 @@
 
 ### Topological Sort
 - [2024/07/25] 2392. Build a Matrix With Conditions
+- [2025/01/24] 802. Find Eventual Safe States
 
 ### Matrix
 - [2024/07/19] 1380. Lucky Numbers in a Matrix
@@ -41,6 +42,7 @@
 - [2024/09/01] 2022. Convert 1D Array Into 2D Array
 - [2024/09/06] 27. Remove Element
 - [2025/01/23] 1267. Count Servers that Communicate
+- [2025/02/01] 3151. Special Array I
 
 ### Simulation
 - [2024/07/09] 1701. Average Waiting Time
