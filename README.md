@@ -43,6 +43,7 @@
 - [2024/09/06] 27. Remove Element
 - [2025/01/23] 1267. Count Servers that Communicate
 - [2025/02/01] 3151. Special Array I
+- [2025/02/02] 1752. Check if Array Is Sorted and Rotated
 
 ### Simulation
 - [2024/07/09] 1701. Average Waiting Time
