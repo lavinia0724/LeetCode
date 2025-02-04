@@ -44,6 +44,8 @@
 - [2025/01/23] 1267. Count Servers that Communicate
 - [2025/02/01] 3151. Special Array I
 - [2025/02/02] 1752. Check if Array Is Sorted and Rotated
+- [2025/02/03] 3105. Longest Strictly Increasing or Strictly Decreasing Subarray
+- [2025/02/04] 1800. Maximum Ascending Subarray Sum
 
 ### Simulation
 - [2024/07/09] 1701. Average Waiting Time
