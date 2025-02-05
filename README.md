@@ -98,6 +98,7 @@
 - [2024/09/12] 1684. Count the Number of Consistent Strings
 - [2025/01/08] 3042. Count Prefix and Suffix Pairs I
 - [2025/01/09] 2185. Counting Words With a Given Prefix
+- [2025/02/05] 1790. Check if One String Swap Can Make Strings Equal
 
 ### KMP Algorithm
 - [2024/09/20] 214. Shortest Palindrome
