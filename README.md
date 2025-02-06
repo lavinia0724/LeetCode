@@ -13,6 +13,7 @@
 - [2024/10/04] 2491. Divide Players Into Teams of Equal Skill
 - [2025/01/10] 916. Word Subsets
 - [2025/01/11] 1400. Construct K Palindrome Strings
+- [2025/02/06] 1726. Tuple with Same Product
 
 ### Two Pointer
 - [2024/09/07] 26. Remove Duplicates from Sorted Array
