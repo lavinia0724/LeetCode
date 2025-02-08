@@ -14,6 +14,7 @@
 - [2025/01/10] 916. Word Subsets
 - [2025/01/11] 1400. Construct K Palindrome Strings
 - [2025/02/06] 1726. Tuple with Same Product
+- [2025/02/08] 3160. Find the Number of Distinct Colors Among the Balls
 
 ### Two Pointer
 - [2024/09/07] 26. Remove Duplicates from Sorted Array
