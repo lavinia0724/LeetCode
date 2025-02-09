@@ -16,6 +16,7 @@
 - [2025/02/06] 1726. Tuple with Same Product
 - [2025/02/08] 3160. Find the Number of Distinct Colors Among the Balls
 - [2025/02/08] 2349. Design a Number Container System
+- [2025/02/09] 2364. Count Number of Bad Pairs
 
 ### Two Pointer
 - [2024/09/07] 26. Remove Duplicates from Sorted Array
