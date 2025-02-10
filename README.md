@@ -169,6 +169,7 @@
 - [2024/10/08] 1963. Minimum Number of Swaps to Make the String Balanced
 - [2024/10/10] 921. Minimum Add to Make Parentheses Valid
 - [2024/10/10] 962. Maximum Width Ramp
+- [2025/02/10] 3174. Clear Digits
 
 ### Binary Search
 - [2024/05/27] 1608. Special Array With X Elements Greater Than or Equal X
