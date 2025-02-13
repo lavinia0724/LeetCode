@@ -206,6 +206,7 @@
 - [2024/06/15] [502. IPO](https://lavinia0724.github.io/2024/06/15/LeetCode-502-IPO/)
 - [2024/12/23] 2530. Maximal Score After Applying K Operations
 - [2024/12/23] 632. Smallest Range Covering Elements from K Lists
+- [2025/02/13] 3066. Minimum Operations to Exceed Threshold Value II
 
 ### Dijkstra
 - [2024/07/27] 2976. Minimum Cost to Convert String I
