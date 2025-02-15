@@ -197,6 +197,7 @@
 ### Backtracking
 - [2024/05/22] 131. Palindrome Partitioning
 - [2024/05/23] 2597. The Number of Beautiful Subsets
+- [2025/02/15] 2698. Find the Punishment Number of an Integer
 
 ### Josphus
 - [2024/07/08] 1823. Find the Winner of the Circular Game
