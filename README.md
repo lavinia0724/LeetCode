@@ -228,6 +228,7 @@
 - [2024/07/24] 2096. Step-By-Step Directions From a Binary Tree Node to Another
 - [2025/02/24] 2467. Most Profitable Path in a Tree
 - [2025/02/24] 889. Construct Binary Tree from Preorder and Postorder Traversal
+- [2025/02/25] 1261. Find Elements in a Contaminated Binary Tree
 
 ### Trie
 - [2024/09/22] 440. K-th Smallest in Lexicographical Order
