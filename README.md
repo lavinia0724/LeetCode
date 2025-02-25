@@ -174,6 +174,7 @@
 - [2024/10/10] 921. Minimum Add to Make Parentheses Valid
 - [2024/10/10] 962. Maximum Width Ramp
 - [2025/02/10] 3174. Clear Digits
+- [2025/02/18] 2375. Construct Smallest Number From DI String
 
 ### Binary Search
 - [2024/05/27] 1608. Special Array With X Elements Greater Than or Equal X
