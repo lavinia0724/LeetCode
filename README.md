@@ -79,6 +79,7 @@
 - [2024/09/21] 386. Lexicographical Numbers
 - [2024/09/21] 9. Palindrome Number
 - [2025/03/04] 1780. Check if Number is a Sum of Powers of Three
+- [2025/03/05] 2579. Count Total Number of Colored Cells
 
 ### Bit Manipulation
 - [2024/08/22] 476. Number Complement
