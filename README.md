@@ -63,6 +63,7 @@
 - [2024/09/13] 54. Spiral Matrix
 - [2024/09/30] 1381. Design a Stack With Increment Operation
 - [2025/03/01] 2460. Apply Operations to an Array
+- [2025/03/05] 2161. Partition Array According to Given Pivot
 
 ### Sliding Window
 - [2024/08/02] 2134. Minimum Swaps to Group All 1's Together II
