@@ -110,6 +110,7 @@
 - [2025/01/09] 2185. Counting Words With a Given Prefix
 - [2025/02/05] 1790. Check if One String Swap Can Make Strings Equal
 - [2025/02/11] 1910. Remove All Occurrences of a Substring
+- [2025/03/05] 1980. Find Unique Binary String
 
 ### KMP Algorithm
 - [2024/09/20] 214. Shortest Palindrome
