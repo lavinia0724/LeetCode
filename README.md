@@ -137,6 +137,7 @@
 - [2024/09/02] 1894. Find the Student that Will Replace the Chalk
 - [2025/01/05] 2381. Shifting Letters II
 - [2025/02/25] 1524. Number of Sub-arrays With Odd Sum
+- [2025/03/05] 1749. Maximum Absolute Sum of Any Subarray
 
 ### Linked List
 - [2024/03/21] 206. Reverse Linked List
