@@ -19,6 +19,7 @@
 - [2025/02/09] 2364. Count Number of Bad Pairs
 - [2025/02/12] 2342. Max Sum of a Pair With Equal Sum of Digits
 - [2025/02/14] 1352. Product of the Last K Numbers
+- [2025/03/06] 2965. Find Missing and Repeated Values
 
 ### Two Pointer
 - [2024/09/07] 26. Remove Duplicates from Sorted Array
