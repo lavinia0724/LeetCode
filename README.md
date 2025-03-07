@@ -25,6 +25,7 @@
 - [2024/09/07] 26. Remove Duplicates from Sorted Array
 - [2024/09/07] 80. Remove Duplicates from Sorted Array II
 - [2024/10/06] 1813. Sentence Similarity III
+- [2025/03/03] 2570. Merge Two 2D Arrays by Summing Values
 
 ### Sorting
 - [2024/07/25] 912. Sort an Array
