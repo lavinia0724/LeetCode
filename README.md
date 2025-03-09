@@ -71,6 +71,8 @@
 - [2024/08/02] 2134. Minimum Swaps to Group All 1's Together II
 - [2024/10/06] 567. Permutation in String
 - [2024/12/28] 689. Maximum Sum of 3 Non-Overlapping Subarrays
+- [2025/03/08] 2379. Minimum Recolors to Get K Consecutive Black Blocks
+- [2025/03/09] 3208. Alternating Groups II
 
 ### Math
 - [2024/05/02] 1688. Count of Matches in Tournament
