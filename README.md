@@ -54,6 +54,7 @@
 - [2025/02/02] 1752. Check if Array Is Sorted and Rotated
 - [2025/02/03] 3105. Longest Strictly Increasing or Strictly Decreasing Subarray
 - [2025/02/04] 1800. Maximum Ascending Subarray Sum
+- [2025/03/12] 2529. Maximum Count of Positive Integer and Negative Integer
 
 ### Simulation
 - [2024/07/09] 1701. Average Waiting Time
