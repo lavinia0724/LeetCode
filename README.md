@@ -192,6 +192,7 @@
 ### Binary Search
 - [2024/05/27] 1608. Special Array With X Elements Greater Than or Equal X
 - [2024/09/12] 167. Two Sum II - Input Array Is Sorted
+- [2025/03/13] 3356. Zero Array Transformation II
 
 ### BFS
 - [2024/04/22] 752. Open the Lock
