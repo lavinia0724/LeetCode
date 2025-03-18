@@ -96,6 +96,7 @@
 - [2024/09/14] 201. Bitwise AND of Numbers Range
 - [2024/09/14] 2419. Longest Subarray With Maximum Bitwise AND
 - [2024/09/15] 1371. Find the Longest Substring Containing Vowels in Even Counts
+- [2025/03/18] 2401. Longest Nice Subarray
 
 ### String
 - [2024/05/01] 2000. Reverse Prefix of Word
