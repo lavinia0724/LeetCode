@@ -39,6 +39,7 @@
 ### Topological Sort
 - [2024/07/25] 2392. Build a Matrix With Conditions
 - [2025/01/24] 802. Find Eventual Safe States
+- [2025/03/21] 2115. Find All Possible Recipes from Given Supplies
 
 ### Matrix
 - [2024/07/19] 1380. Lucky Numbers in a Matrix
