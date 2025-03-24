@@ -234,6 +234,9 @@
 - [2025/02/13] 3065. Minimum Operations to Exceed Threshold Value I
 - [2025/02/13] 3066. Minimum Operations to Exceed Threshold Value II
 
+### Disjoint Set
+- [2025/03/24] 2685. Count the Number of Complete Components
+
 ### Dijkstra
 - [2024/07/27] 2976. Minimum Cost to Convert String I
 - [2024/07/28] 2045. Second Minimum Time to Reach Destination
