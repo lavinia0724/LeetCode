@@ -36,6 +36,7 @@
 - [2024/09/18] 179. Largest Number
 - [2024/10/07] 2696. Minimum String Length After Removing Substrings
 - [2025/03/24] 3169. Count Days Without Meetings
+- [2025/03/25] 3394. Check if Grid can be Cut into Sections
 
 ### Topological Sort
 - [2024/07/25] 2392. Build a Matrix With Conditions
