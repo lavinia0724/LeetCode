@@ -20,6 +20,7 @@
 - [2025/02/12] 2342. Max Sum of a Pair With Equal Sum of Digits
 - [2025/02/14] 1352. Product of the Last K Numbers
 - [2025/03/06] 2965. Find Missing and Repeated Values
+- [2025/03/27] 2780. Minimum Index of a Valid Split
 
 ### Two Pointer
 - [2024/09/07] 26. Remove Duplicates from Sorted Array
@@ -91,6 +92,7 @@
 - [2025/03/04] 1780. Check if Number is a Sum of Powers of Three
 - [2025/03/05] 2579. Count Total Number of Colored Cells
 - [2025/03/07] 2523. Closest Prime Numbers in Range
+- [2025/03/27] 2033. Minimum Operations to Make a Uni-Value Grid
 
 ### Bit Manipulation
 - [2024/08/22] 476. Number Complement
