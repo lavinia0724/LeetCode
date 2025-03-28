@@ -225,6 +225,8 @@
 - [2024/05/23] 2597. The Number of Beautiful Subsets
 - [2025/02/15] 2698. Find the Punishment Number of an Integer
 - [2025/02/16] 1718. Construct the Lexicographically Largest Valid Sequence
+- [2025/03/28] 1079. Letter Tile Possibilities
+- [2025/03/28] 1415. The k-th Lexicographical String of All Happy Strings of Length n
 
 ### Josphus
 - [2024/07/08] 1823. Find the Winner of the Circular Game
