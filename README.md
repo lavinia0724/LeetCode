@@ -93,6 +93,7 @@
 - [2025/03/05] 2579. Count Total Number of Colored Cells
 - [2025/03/07] 2523. Closest Prime Numbers in Range
 - [2025/03/27] 2033. Minimum Operations to Make a Uni-Value Grid
+- [2025/03/29] 2818. Apply Operations to Maximize Score
 
 ### Bit Manipulation
 - [2024/08/22] 476. Number Complement
