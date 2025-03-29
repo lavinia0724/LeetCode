@@ -260,6 +260,7 @@
 - [2025/02/24] 2467. Most Profitable Path in a Tree
 - [2025/02/24] 889. Construct Binary Tree from Preorder and Postorder Traversal
 - [2025/02/25] 1261. Find Elements in a Contaminated Binary Tree
+- [2025/03/29] 1028. Recover a Tree From Preorder Traversal
 
 ### Trie
 - [2024/09/22] 440. K-th Smallest in Lexicographical Order
