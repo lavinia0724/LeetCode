@@ -81,6 +81,7 @@
 - [2025/03/09] 3208. Alternating Groups II
 - [2025/03/09] 3206. Alternating Groups I
 - [2025/03/30] 3306. Count of Substrings Containing Every Vowel and K Consonants II
+- [2025/03/30] 3305. Count of Substrings Containing Every Vowel and K Consonants I
 
 ### Math
 - [2024/05/02] 1688. Count of Matches in Tournament
