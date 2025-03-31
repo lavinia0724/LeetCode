@@ -243,6 +243,7 @@
 - [2024/12/23] 632. Smallest Range Covering Elements from K Lists
 - [2025/02/13] 3065. Minimum Operations to Exceed Threshold Value I
 - [2025/02/13] 3066. Minimum Operations to Exceed Threshold Value II
+- [2025/03/31] 2551. Put Marbles in Bags
 
 ### Disjoint Set
 - [2025/03/24] 2685. Count the Number of Complete Components
