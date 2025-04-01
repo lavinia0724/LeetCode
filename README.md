@@ -287,3 +287,4 @@
 - [2024/12/30] 2466. Count Ways To Build Good Strings
 - [2025/02/27] 873. Length of Longest Fibonacci Subsequence
 - [2025/02/28] 1092. Shortest Common Supersequence
+- [2025/04/01] 2140. Solving Questions With Brainpower
