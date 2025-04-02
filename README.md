@@ -60,6 +60,7 @@
 - [2025/02/03] 3105. Longest Strictly Increasing or Strictly Decreasing Subarray
 - [2025/02/04] 1800. Maximum Ascending Subarray Sum
 - [2025/03/12] 2529. Maximum Count of Positive Integer and Negative Integer
+- [2025/04/02] 2873. Maximum Value of an Ordered Triplet I
 
 ### Simulation
 - [2024/07/09] 1701. Average Waiting Time
