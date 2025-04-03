@@ -21,6 +21,7 @@
 - [2025/02/14] 1352. Product of the Last K Numbers
 - [2025/03/06] 2965. Find Missing and Repeated Values
 - [2025/03/27] 2780. Minimum Index of a Valid Split
+- [2025/04/03] 2206. Divide Array Into Equal Pairs
 
 ### Two Pointer
 - [2024/09/07] 26. Remove Duplicates from Sorted Array
@@ -209,6 +210,7 @@
 - [2025/03/13] 3356. Zero Array Transformation II
 - [2025/03/14] 2226. Maximum Candies Allocated to K Children
 - [2025/03/15] 2560. House Robber IV
+- [2025/04/03] 2594. Minimum Time to Repair Cars
 
 ### BFS
 - [2024/04/22] 752. Open the Lock
