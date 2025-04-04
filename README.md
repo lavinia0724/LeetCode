@@ -252,6 +252,7 @@
 
 ### Disjoint Set
 - [2025/03/24] 2685. Count the Number of Complete Components
+- [2025/04/04] 3108. Minimum Cost Walk in Weighted Graph
 
 ### Dijkstra
 - [2024/07/27] 2976. Minimum Cost to Convert String I
