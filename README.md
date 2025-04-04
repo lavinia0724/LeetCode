@@ -281,6 +281,9 @@
 - [2024/08/25] 145. Binary Tree Postorder Traversal
 - [2024/08/26] 590. N-ary Tree Postorder Traversal
 
+### LCA
+- [2025/04/04] 1123. Lowest Common Ancestor of Deepest Leaves
+
 ### DP
 - [2024/04/26] [2370. Longest Ideal Subsequence.cpp](https://lavinia0724.github.io/2024/04/25/LeetCode-2370-Longest-Ideal-Subsequence/)
 - [2024/07/31] 1105. Filling Bookcase Shelves
