@@ -22,6 +22,7 @@
 - [2025/03/06] 2965. Find Missing and Repeated Values
 - [2025/03/27] 2780. Minimum Index of a Valid Split
 - [2025/04/03] 2206. Divide Array Into Equal Pairs
+- [2025/04/05] 2671. Frequency Tracker
 
 ### Two Pointer
 - [2024/09/07] 26. Remove Duplicates from Sorted Array
