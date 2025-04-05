@@ -88,7 +88,6 @@
 
 ### Math
 - [2024/05/02] 1688. Count of Matches in Tournament
-- [2024/05/20] [1863. Sum of All Subset XOR Totals](https://lavinia0724.github.io/2024/05/20/LeetCode-1863-Sum-of-All-Subset-XOR-Totals/)
 - [2024/06/17] 633. Sum of Square Numbers
 - [2024/07/06] 2582. Pass the Pillow
 - [2024/07/07] 1518. Water Bottles
@@ -102,6 +101,7 @@
 - [2025/03/29] 2818. Apply Operations to Maximize Score
 
 ### Bit Manipulation
+- [2024/05/20] [1863. Sum of All Subset XOR Totals](https://lavinia0724.github.io/2024/05/20/LeetCode-1863-Sum-of-All-Subset-XOR-Totals/)
 - [2024/08/22] 476. Number Complement
 - [2024/09/11] 2220. Minimum Bit Flips to Convert Number
 - [2024/09/13] 1310. XOR Queries of a Subarray
