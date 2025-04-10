@@ -24,6 +24,7 @@
 - [2025/04/03] 2206. Divide Array Into Equal Pairs
 - [2025/04/05] 2671. Frequency Tracker
 - [2025/04/09] 3396. Minimum Number of Operations to Make Elements in Array Distinct
+- [2025/04/09] 3375. Minimum Operations to Make Array Values Equal to K
 
 ### Two Pointer
 - [2024/09/07] 26. Remove Duplicates from Sorted Array
