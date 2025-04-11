@@ -2,6 +2,9 @@
 
 有連結的題目是我有針對解法寫一篇部落格文章，可以參考看看
 
+### Enumeration
+- [2025/04/11] 2843. Count Symmetric Integers
+
 ### Hash Table
 - [2024/08/06] 3016. Minimum Number of Pushes to Type Word II
 - [2024/08/31] 1. Two Sum
@@ -304,3 +307,4 @@
 - [2025/04/01] 198. House Robber
 - [2025/04/06] 368. Largest Divisible Subset
 - [2025/04/08] 416. Partition Equal Subset Sum
+- [2025/04/10] 2999. Count the Number of Powerful Integers
