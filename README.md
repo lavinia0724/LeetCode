@@ -4,6 +4,7 @@
 
 ### Enumeration
 - [2025/04/11] 2843. Count Symmetric Integers
+- [2025/04/12] 3272. Find the Count of Good Integers
 
 ### Hash Table
 - [2024/08/06] 3016. Minimum Number of Pushes to Type Word II
