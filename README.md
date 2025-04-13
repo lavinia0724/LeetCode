@@ -106,6 +106,7 @@
 - [2025/03/07] 2523. Closest Prime Numbers in Range
 - [2025/03/27] 2033. Minimum Operations to Make a Uni-Value Grid
 - [2025/03/29] 2818. Apply Operations to Maximize Score
+- [2025/04/13] 1922. Count Good Numbers
 
 ### Bit Manipulation
 - [2024/05/20] [1863. Sum of All Subset XOR Totals](https://lavinia0724.github.io/2024/05/20/LeetCode-1863-Sum-of-All-Subset-XOR-Totals/)
