@@ -292,6 +292,9 @@
 - [2024/08/25] 145. Binary Tree Postorder Traversal
 - [2024/08/26] 590. N-ary Tree Postorder Traversal
 
+### Binary Indexed Tree
+- [2025/04/15] 2179. Count Good Triplets in an Array
+
 ### LCA
 - [2025/04/04] 1123. Lowest Common Ancestor of Deepest Leaves
 
