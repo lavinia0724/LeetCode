@@ -2,6 +2,9 @@
 
 有連結的題目是我有針對解法寫一篇部落格文章，可以參考看看
 
+### Array
+- [2025/04/17] 2176. Count Equal and Divisible Pairs in an Array
+
 ### Enumeration
 - [2025/04/11] 2843. Count Symmetric Integers
 - [2025/04/12] 3272. Find the Count of Good Integers
