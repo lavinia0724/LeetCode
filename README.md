@@ -5,6 +5,23 @@
 ### Array
 - [2025/04/17] 2176. Count Equal and Divisible Pairs in an Array
 
+### Matrix
+- [2024/07/19] 1380. Lucky Numbers in a Matrix
+- [2024/07/20] 1605. Find Valid Matrix Given Row and Column Sums
+- [2024/07/24] 2191. Sort the Jumbled Numbers
+- [2024/07/29] 1395. Count Number of Teams
+- [2024/08/09] 840. Magic Squares In Grid
+- [2024/08/10] 959. Regions Cut By Slashes
+- [2024/09/01] 2022. Convert 1D Array Into 2D Array
+- [2024/09/06] 27. Remove Element
+- [2025/01/23] 1267. Count Servers that Communicate
+- [2025/02/01] 3151. Special Array I
+- [2025/02/02] 1752. Check if Array Is Sorted and Rotated
+- [2025/02/03] 3105. Longest Strictly Increasing or Strictly Decreasing Subarray
+- [2025/02/04] 1800. Maximum Ascending Subarray Sum
+- [2025/03/12] 2529. Maximum Count of Positive Integer and Negative Integer
+- [2025/04/02] 2873. Maximum Value of an Ordered Triplet I
+
 ### Enumeration
 - [2025/04/11] 2843. Count Symmetric Integers
 - [2025/04/12] 3272. Find the Count of Good Integers
@@ -34,6 +51,7 @@
 - [2025/04/09] 3396. Minimum Number of Operations to Make Elements in Array Distinct
 - [2025/04/09] 3375. Minimum Operations to Make Array Values Equal to K
 - [2025/04/16] 2537. Count the Number of Good Subarrays
+- [2025/04/20] 781. Rabbits in Forest
 
 ### Two Pointer
 - [2024/09/07] 26. Remove Duplicates from Sorted Array
@@ -57,23 +75,6 @@
 - [2024/07/25] 2392. Build a Matrix With Conditions
 - [2025/01/24] 802. Find Eventual Safe States
 - [2025/03/21] 2115. Find All Possible Recipes from Given Supplies
-
-### Matrix
-- [2024/07/19] 1380. Lucky Numbers in a Matrix
-- [2024/07/20] 1605. Find Valid Matrix Given Row and Column Sums
-- [2024/07/24] 2191. Sort the Jumbled Numbers
-- [2024/07/29] 1395. Count Number of Teams
-- [2024/08/09] 840. Magic Squares In Grid
-- [2024/08/10] 959. Regions Cut By Slashes
-- [2024/09/01] 2022. Convert 1D Array Into 2D Array
-- [2024/09/06] 27. Remove Element
-- [2025/01/23] 1267. Count Servers that Communicate
-- [2025/02/01] 3151. Special Array I
-- [2025/02/02] 1752. Check if Array Is Sorted and Rotated
-- [2025/02/03] 3105. Longest Strictly Increasing or Strictly Decreasing Subarray
-- [2025/02/04] 1800. Maximum Ascending Subarray Sum
-- [2025/03/12] 2529. Maximum Count of Positive Integer and Negative Integer
-- [2025/04/02] 2873. Maximum Value of an Ordered Triplet I
 
 ### Simulation
 - [2024/07/09] 1701. Average Waiting Time
