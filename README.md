@@ -52,6 +52,7 @@
 - [2025/04/09] 3375. Minimum Operations to Make Array Values Equal to K
 - [2025/04/16] 2537. Count the Number of Good Subarrays
 - [2025/04/20] 781. Rabbits in Forest
+- [2025/04/23] 1399. Count Largest Group
 
 ### Two Pointer
 - [2024/09/07] 26. Remove Duplicates from Sorted Array
