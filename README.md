@@ -177,6 +177,7 @@
 - [2025/02/25] 1524. Number of Sub-arrays With Odd Sum
 - [2025/03/05] 1749. Maximum Absolute Sum of Any Subarray
 - [2025/04/03] 2874. Maximum Value of an Ordered Triplet II
+- [2025/04/25] 2845. Count of Interesting Subarrays
 
 ### Linked List
 - [2024/03/21] 206. Reverse Linked List
