@@ -100,6 +100,9 @@
 - [2025/03/30] 3305. Count of Substrings Containing Every Vowel and K Consonants I
 - [2025/04/02] 1358. Number of Substrings Containing All Three Characters
 
+### Monotonic Queue
+- [2025/04/26] 2444. Count Subarrays With Fixed Bounds
+
 ### Math
 - [2024/05/02] 1688. Count of Matches in Tournament
 - [2024/06/17] 633. Sum of Square Numbers
