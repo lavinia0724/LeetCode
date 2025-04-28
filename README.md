@@ -100,6 +100,7 @@
 - [2025/03/30] 3306. Count of Substrings Containing Every Vowel and K Consonants II
 - [2025/03/30] 3305. Count of Substrings Containing Every Vowel and K Consonants I
 - [2025/04/02] 1358. Number of Substrings Containing All Three Characters
+- [2025/04/28] 2302. Count Subarrays With Score Less Than K
 
 ### Monotonic Queue
 - [2025/04/26] 2444. Count Subarrays With Fixed Bounds
