@@ -102,6 +102,7 @@
 - [2025/04/02] 1358. Number of Substrings Containing All Three Characters
 - [2025/04/28] 2302. Count Subarrays With Score Less Than K
 - [2025/04/29] 2962. Count Subarrays Where Max Element Appears at Least K Times
+- [2025/04/29] 3113. Find the Number of Subarrays Where Boundary Elements Are Maximum
  
 ### Monotonic Queue
 - [2025/04/26] 2444. Count Subarrays With Fixed Bounds
