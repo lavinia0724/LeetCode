@@ -163,7 +163,6 @@
 - [2024/09/20] 214. Shortest Palindrome
 
 ### Greedy
-- [2024/04/23] 2962. Count Subarrays Where Max Element Appears at Least K Times
 - [2024/05/09] 3075. Maximize Happiness of Selected Children
 - [2024/05/13] 861. Score After Flipping Matrix
 - [2024/05/19] 3068. Find the Maximum Sum of Node Values
@@ -188,6 +187,7 @@
 - [2025/03/05] 1749. Maximum Absolute Sum of Any Subarray
 - [2025/04/03] 2874. Maximum Value of an Ordered Triplet II
 - [2025/04/25] 2845. Count of Interesting Subarrays
+- [2025/04/30] 2145. Count the Hidden Sequences
 
 ### Linked List
 - [2024/03/21] 206. Reverse Linked List
