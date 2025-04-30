@@ -5,6 +5,7 @@
 ### Array
 - [2025/04/17] 2176. Count Equal and Divisible Pairs in an Array
 - [2025/04/27] 3392. Count Subarrays of Length Three With a Condition
+- [2025/04/30] 1295. Find Numbers with Even Number of Digits
 
 ### Matrix
 - [2024/07/19] 1380. Lucky Numbers in a Matrix
@@ -237,6 +238,7 @@
 - [2025/03/14] 2226. Maximum Candies Allocated to K Children
 - [2025/03/15] 2560. House Robber IV
 - [2025/04/03] 2594. Minimum Time to Repair Cars
+- [2025/04/30] 2563. Count the Number of Fair Pairs
 
 ### BFS
 - [2024/04/22] 752. Open the Lock
