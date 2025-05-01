@@ -239,6 +239,7 @@
 - [2025/03/15] 2560. House Robber IV
 - [2025/04/03] 2594. Minimum Time to Repair Cars
 - [2025/04/30] 2563. Count the Number of Fair Pairs
+- [2025/05/01] 2071. Maximum Number of Tasks You Can Assign
 
 ### BFS
 - [2024/04/22] 752. Open the Lock
