@@ -6,6 +6,7 @@
 - [2025/04/17] 2176. Count Equal and Divisible Pairs in an Array
 - [2025/04/27] 3392. Count Subarrays of Length Three With a Condition
 - [2025/04/30] 1295. Find Numbers with Even Number of Digits
+- [2025/05/06] 1920. Build Array from Permutation
 
 ### Matrix
 - [2024/07/19] 1380. Lucky Numbers in a Matrix
