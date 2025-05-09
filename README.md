@@ -292,6 +292,7 @@
 - [2024/08/30] 2699. Modify Graph Edge Weights
 - [2025/04/03] 1976. Number of Ways to Arrive at Destination
 - [2025/05/07] 3341. Find Minimum Time to Reach Last Room I
+- [2025/05/09] 3342. Find Minimum Time to Reach Last Room II
  
 ### SPFA
 - [2024/07/26] 1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance
