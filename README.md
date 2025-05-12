@@ -8,6 +8,7 @@
 - [2025/04/30] 1295. Find Numbers with Even Number of Digits
 - [2025/05/06] 1920. Build Array from Permutation
 - [2025/05/11] 1550. Three Consecutive Odds
+- [2025/05/12] 2094. Finding 3-Digit Even Numbers
 
 ### Matrix
 - [2024/07/19] 1380. Lucky Numbers in a Matrix
