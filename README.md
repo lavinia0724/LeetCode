@@ -9,6 +9,7 @@
 - [2025/05/06] 1920. Build Array from Permutation
 - [2025/05/11] 1550. Three Consecutive Odds
 - [2025/05/12] 2094. Finding 3-Digit Even Numbers
+- [2025/05/12] 2918. Minimum Equal Sum of Two Arrays After Replacing Zeros
 
 ### Matrix
 - [2024/07/19] 1380. Lucky Numbers in a Matrix
