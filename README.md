@@ -60,6 +60,7 @@
 - [2025/04/20] 781. Rabbits in Forest
 - [2025/04/23] 1399. Count Largest Group
 - [2025/05/04] 1128. Number of Equivalent Domino Pairs
+- [2025/05/13] 3335. Total Characters in String After Transformations I
 
 ### Two Pointer
 - [2024/09/07] 26. Remove Duplicates from Sorted Array
