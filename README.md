@@ -11,6 +11,7 @@
 - [2025/05/12] 2094. Finding 3-Digit Even Numbers
 - [2025/05/12] 2918. Minimum Equal Sum of Two Arrays After Replacing Zeros
 - [2025/05/15] 2900. Longest Unequal Adjacent Groups Subsequence I
+- [2025/05/23] 3024. Type of Triangle
 
 ### Matrix
 - [2024/07/19] 1380. Lucky Numbers in a Matrix
@@ -69,6 +70,7 @@
 - [2024/10/06] 1813. Sentence Similarity III
 - [2025/03/03] 2570. Merge Two 2D Arrays by Summing Values
 - [2025/03/30] 763. Partition Labels
+- [2025/05/23] 75. Sort Colors
 
 ### Sorting
 - [2024/07/25] 912. Sort an Array

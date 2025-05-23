@@ -1,4 +1,4 @@
-// 2025.05.23
+// 2025/05/23
 class Solution {
 public:
     void sortColors(vector<int>& nums) {
