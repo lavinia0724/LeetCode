@@ -10,6 +10,7 @@
 - [2025/05/11] 1550. Three Consecutive Odds
 - [2025/05/12] 2094. Finding 3-Digit Even Numbers
 - [2025/05/12] 2918. Minimum Equal Sum of Two Arrays After Replacing Zeros
+- [2025/05/15] 2900. Longest Unequal Adjacent Groups Subsequence I
 
 ### Matrix
 - [2024/07/19] 1380. Lucky Numbers in a Matrix
