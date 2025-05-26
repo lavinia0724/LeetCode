@@ -167,6 +167,7 @@
 - [2025/02/11] 1910. Remove All Occurrences of a Substring
 - [2025/03/05] 1980. Find Unique Binary String
 - [2025/04/29] 38. Count and Say
+- [2025/05/26] 2942. Find Words Containing Character
 
 ### KMP Algorithm
 - [2024/09/20] 214. Shortest Palindrome
