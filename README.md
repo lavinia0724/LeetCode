@@ -133,6 +133,7 @@
 - [2025/03/29] 2818. Apply Operations to Maximize Score
 - [2025/04/13] 1922. Count Good Numbers
 - [2025/04/13] 50. Pow(x, n)
+- [2025/05/27] 2894. Divisible and Non-divisible Sums Difference
 
 ### Bit Manipulation
 - [2024/05/20] [1863. Sum of All Subset XOR Totals](https://lavinia0724.github.io/2024/05/20/LeetCode-1863-Sum-of-All-Subset-XOR-Totals/)
