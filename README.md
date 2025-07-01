@@ -172,6 +172,7 @@
 - [2025/04/29] 38. Count and Say
 - [2025/05/26] 2942. Find Words Containing Character
 - [2025/05/28] 2131. Longest Palindrome by Concatenating Two Letter Words
+- [2025/07/01] 3330. Find the Original Typed String I
 
 ### KMP Algorithm
 - [2024/09/20] 214. Shortest Palindrome
