@@ -173,6 +173,7 @@
 - [2025/05/26] 2942. Find Words Containing Character
 - [2025/05/28] 2131. Longest Palindrome by Concatenating Two Letter Words
 - [2025/07/01] 3330. Find the Original Typed String I
+- [2025/07/03] 3304. Find the K-th Character in String Game I
 
 ### KMP Algorithm
 - [2024/09/20] 214. Shortest Palindrome
