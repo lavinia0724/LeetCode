@@ -221,6 +221,7 @@
 - [2024/09/08] 725. Split Linked List in Parts
 - [2024/09/10] 2807. Insert Greatest Common Divisors in Linked List
 - [2024/09/28] 641. Design Circular Deque
+- [2025/07/14] 1290. Convert Binary Number in a Linked List to Integer
 
 ### STL
 - [2024/04/08] 1700. Number of Students Unable to Eat Lunch
