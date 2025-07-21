@@ -176,6 +176,7 @@
 - [2025/07/01] 3330. Find the Original Typed String I
 - [2025/07/03] 3304. Find the K-th Character in String Game I
 - [2025/07/15] 3136. Valid Word
+- [2025/07/21] 1957. Delete Characters to Make Fancy String
 
 ### KMP Algorithm
 - [2024/09/20] 214. Shortest Palindrome
