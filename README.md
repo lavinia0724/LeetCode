@@ -117,6 +117,7 @@
 - [2025/04/29] 2962. Count Subarrays Where Max Element Appears at Least K Times
 - [2025/04/29] 3113. Find the Number of Subarrays Where Boundary Elements Are Maximum
 - [2025/04/29] 2799. Count Complete Subarrays in an Array
+- [2025/07/22] 1695. Maximum Erasure Value
  
 ### Monotonic Queue
 - [2025/04/26] 2444. Count Subarrays With Fixed Bounds
