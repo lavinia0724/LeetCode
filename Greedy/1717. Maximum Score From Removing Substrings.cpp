@@ -43,3 +43,40 @@ public:
         return ans;
     }
 };
+
+// ==========================================================================
+
+// 2025/07/23
+class Solution {
+public:
+    int counter(string s, int x, int y, char a, char b){
+        stack<char> stk;
+        int ans = 0;
+        for(auto character: s){
+            if(!stk.empty() && stk.top() == b && character == a){
+                stk.pop();
+                ans += y;
+            }
+            else stk.push(character);
+        }
+        string revstr = "";
+        while(!stk.empty()){
+            revstr += stk.top();
+            stk.pop();
+        }
+        reverse(revstr.begin(), revstr.end());
+        for(auto character: revstr){
+            if(!stk.empty() && stk.top() == a && character == b){
+                stk.pop();
+                ans += x;
+            }
+            else stk.push(character);
+        }
+        return ans;
+    }
+
+    int maximumGain(string s, int x, int y) {
+        if(y >= x) return counter(s, x, y, 'a', 'b');
+        else return counter(s, y, x, 'b', 'a'); // 倒過來
+    }
+};
