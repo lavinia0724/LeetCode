@@ -65,6 +65,7 @@
 - [2025/05/13] 3335. Total Characters in String After Transformations I
 - [2025/06/30] 594. Longest Harmonious Subsequence
 - [2025/07/05] 1394. Find Lucky Integer in an Array
+- [2025/07/26] 3487. Maximum Unique Subarray Sum After Deletion
 
 ### Two Pointer
 - [2024/09/07] 26. Remove Duplicates from Sorted Array
