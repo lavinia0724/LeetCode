@@ -152,6 +152,7 @@
 - [2025/03/18] 2401. Longest Nice Subarray
 - [2025/03/19] 3191. Minimum Operations to Make Binary Array Elements Equal to One I
 - [2025/07/28] 2044. Count Number of Maximum Bitwise-OR Subsets
+- [2025/07/29] 2411. Smallest Subarrays With Maximum Bitwise OR
 
 ### String
 - [2024/05/01] 2000. Reverse Prefix of Word
