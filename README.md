@@ -7,7 +7,6 @@
 - [2025/04/27] 3392. Count Subarrays of Length Three With a Condition
 - [2025/04/30] 1295. Find Numbers with Even Number of Digits
 - [2025/05/06] 1920. Build Array from Permutation
-- [2025/05/11] 1550. Three Consecutive Odds
 - [2025/05/12] 2094. Finding 3-Digit Even Numbers
 - [2025/05/12] 2918. Minimum Equal Sum of Two Arrays After Replacing Zeros
 - [2025/05/15] 2900. Longest Unequal Adjacent Groups Subsequence I
@@ -74,7 +73,7 @@
 - [2024/10/06] 1813. Sentence Similarity III
 - [2025/03/03] 2570. Merge Two 2D Arrays by Summing Values
 - [2025/03/30] 763. Partition Labels
-- [2025/05/23] 75. Sort Colors
+- [2024/06/13] [2025/05/23] 75. Sort Colors
 
 ### Sorting
 - [2024/07/25] 912. Sort an Array
@@ -129,7 +128,7 @@
 - [2024/06/17] 633. Sum of Square Numbers
 - [2024/07/06] 2582. Pass the Pillow
 - [2024/07/07] 1518. Water Bottles
-- [2024/07/07] 1550. Three Consecutive Odds
+- [2024/07/07] [2025/05/11] 1550. Three Consecutive Odds
 - [2024/09/21] 386. Lexicographical Numbers
 - [2024/09/21] 9. Palindrome Number
 - [2025/03/04] 1780. Check if Number is a Sum of Powers of Three
@@ -242,7 +241,6 @@
 - [2024/06/06] 846. Hand of Straights
 - [2024/06/06] 1296. Divide Array in Sets of K Consecutive Numbers
 - [2024/06/10] 1051. Height Checker
-- [2024/06/13] 75. Sort Colors
 - [2024/07/03] 350. Intersection of Two Arrays II
 - [2024/07/10] 1598. Crawler Log Folder
 - [2024/07/11] 1190. Reverse Substrings Between Each Pair of Parentheses
