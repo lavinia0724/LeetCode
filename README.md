@@ -364,6 +364,7 @@
 - [2025/05/14] 838. Push Dominoes
 - [2025/07/30] 790. Domino and Tromino Tiling
 - [2025/07/31] 898. Bitwise ORs of Subarrays
+- [2025/08/08] 808. Soup Servings
 
 ### Segment Tree
 - [2025/08/06] 3479. Fruits Into Baskets III
