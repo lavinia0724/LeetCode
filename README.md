@@ -140,6 +140,7 @@
 - [2025/04/13] 1922. Count Good Numbers
 - [2025/04/13] 50. Pow(x, n)
 - [2025/05/27] 2894. Divisible and Non-divisible Sums Difference
+- [2025/08/09] 231. Power of Two
 
 ### Bit Manipulation
 - [2024/05/20] [1863. Sum of All Subset XOR Totals](https://lavinia0724.github.io/2024/05/20/LeetCode-1863-Sum-of-All-Subset-XOR-Totals/)
