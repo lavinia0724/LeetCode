@@ -141,6 +141,7 @@
 - [2025/04/13] 50. Pow(x, n)
 - [2025/05/27] 2894. Divisible and Non-divisible Sums Difference
 - [2025/08/09] 231. Power of Two
+- [2025/08/13] 326. Power of Three
 
 ### Bit Manipulation
 - [2024/05/20] [1863. Sum of All Subset XOR Totals](https://lavinia0724.github.io/2024/05/20/LeetCode-1863-Sum-of-All-Subset-XOR-Totals/)
@@ -365,7 +366,7 @@
 - [2025/05/14] 838. Push Dominoes
 - [2025/07/30] 790. Domino and Tromino Tiling
 - [2025/07/31] 898. Bitwise ORs of Subarrays
-- [2025/08/08] 808. Soup Servings
+- [2025/08/08] [808. Soup Servings](https://lavinia0724.github.io/2025/08/08/LeetCode-880-Soup-Servings/)
 
 ### Segment Tree
-- [2025/08/06] 3479. Fruits Into Baskets III
+- [2025/08/06] [3479. Fruits Into Baskets III](https://lavinia0724.github.io/2025/08/06/LeetCode-3479-Fruits-Into-Baskets-III/)
