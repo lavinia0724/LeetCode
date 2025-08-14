@@ -184,6 +184,7 @@
 - [2025/07/03] 3304. Find the K-th Character in String Game I
 - [2025/07/15] 3136. Valid Word
 - [2025/07/21] 1957. Delete Characters to Make Fancy String
+- [2025/08/14] 2264. Largest 3-Same-Digit Number in String
 
 ### KMP Algorithm
 - [2024/09/20] 214. Shortest Palindrome
