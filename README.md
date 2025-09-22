@@ -67,6 +67,7 @@
 - [2025/06/30] 594. Longest Harmonious Subsequence
 - [2025/07/05] 1394. Find Lucky Integer in an Array
 - [2025/07/26] 3487. Maximum Unique Subarray Sum After Deletion
+- [2025/09/22] 3005. Count Elements With Maximum Frequency
 
 ### Two Pointer
 - [2024/09/07] 26. Remove Duplicates from Sorted Array
