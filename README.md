@@ -369,6 +369,7 @@
 - [2025/07/30] 790. Domino and Tromino Tiling
 - [2025/07/31] 898. Bitwise ORs of Subarrays
 - [2025/08/08] [808. Soup Servings](https://lavinia0724.github.io/2025/08/08/LeetCode-880-Soup-Servings/)
+- [2025/09/23] 2901. Longest Unequal Adjacent Groups Subsequence II
 
 ### Segment Tree
 - [2025/08/06] [3479. Fruits Into Baskets III](https://lavinia0724.github.io/2025/08/06/LeetCode-3479-Fruits-Into-Baskets-III/)
