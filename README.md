@@ -76,6 +76,7 @@
 - [2025/03/03] 2570. Merge Two 2D Arrays by Summing Values
 - [2025/03/30] 763. Partition Labels
 - [2024/06/13] [2025/05/23] 75. Sort Colors
+- [2025/09/26] 611. Valid Triangle Number
 
 ### Sorting
 - [2024/07/25] 912. Sort an Array
