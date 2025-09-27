@@ -144,6 +144,7 @@
 - [2025/05/27] 2894. Divisible and Non-divisible Sums Difference
 - [2025/08/09] 231. Power of Two
 - [2025/08/13] 326. Power of Three
+- [2025/09/27] 812. Largest Triangle Area
 
 ### Bit Manipulation
 - [2024/05/20] [1863. Sum of All Subset XOR Totals](https://lavinia0724.github.io/2024/05/20/LeetCode-1863-Sum-of-All-Subset-XOR-Totals/)
