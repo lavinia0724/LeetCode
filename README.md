@@ -145,6 +145,7 @@
 - [2025/08/09] 231. Power of Two
 - [2025/08/13] 326. Power of Three
 - [2025/09/27] 812. Largest Triangle Area
+- [2025/09/28] 2338. Count the Number of Ideal Arrays
 
 ### Bit Manipulation
 - [2024/05/20] [1863. Sum of All Subset XOR Totals](https://lavinia0724.github.io/2024/05/20/LeetCode-1863-Sum-of-All-Subset-XOR-Totals/)
