@@ -202,6 +202,7 @@
 - [2024/07/03] 1509. Minimum Difference Between Largest and Smallest Value in Three Moves
 - [2024/07/12] [2025/07/23] 1717. Maximum Score From Removing Substrings
 - [2024/12/22] 1942. The Number of the Smallest Unoccupied Chair
+- [2025/09/28] 976. Largest Perimeter Triangle
 
 ### Interval Scheduling
 - [2024/09/27] 729. My Calendar I
