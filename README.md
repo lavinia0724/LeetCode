@@ -132,7 +132,7 @@
 - [2024/05/02] 1688. Count of Matches in Tournament
 - [2024/06/17] 633. Sum of Square Numbers
 - [2024/07/06] 2582. Pass the Pillow
-- [2024/07/07] 1518. Water Bottles
+- [2024/07/07] [2025/10/01] 1518. Water Bottles
 - [2024/07/07] [2025/05/11] 1550. Three Consecutive Odds
 - [2024/09/21] 386. Lexicographical Numbers
 - [2024/09/21] 9. Palindrome Number
