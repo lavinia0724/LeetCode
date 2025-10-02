@@ -107,6 +107,7 @@
 - [2025/03/01] 2460. Apply Operations to an Array
 - [2025/03/05] 2161. Partition Array According to Given Pivot
 - [2025/09/30] 2221. Find Triangular Sum of an Array
+- [2025/10/02] 3100. Water Bottles II
 
 ### Sliding Window
 - [2024/08/02] 2134. Minimum Swaps to Group All 1's Together II
