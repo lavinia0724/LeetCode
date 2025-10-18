@@ -13,6 +13,7 @@
 - [2025/05/23] 3024. Type of Triangle
 - [2025/07/27] 2210. Count Hills and Valleys in an Array
 - [2025/08/01] 118. Pascal's Triangle
+- [2025/10/18] 3349. Adjacent Increasing Subarrays Detection I
 
 ### Matrix
 - [2024/07/19] 1380. Lucky Numbers in a Matrix
