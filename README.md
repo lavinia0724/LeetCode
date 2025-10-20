@@ -194,6 +194,7 @@
 - [2025/07/21] 1957. Delete Characters to Make Fancy String
 - [2025/08/14] 2264. Largest 3-Same-Digit Number in String
 - [2025/10/13] 2273. Find Resultant Array After Removing Anagrams
+- [2025/10/20] 2011. Final Value of Variable After Performing Operations
 
 ### KMP Algorithm
 - [2024/09/20] 214. Shortest Palindrome
