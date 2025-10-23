@@ -195,6 +195,7 @@
 - [2025/08/14] 2264. Largest 3-Same-Digit Number in String
 - [2025/10/13] 2273. Find Resultant Array After Removing Anagrams
 - [2025/10/20] 2011. Final Value of Variable After Performing Operations
+- [2025/10/23] 3461. Check If Digits Are Equal in String After Operations I
 
 ### KMP Algorithm
 - [2024/09/20] 214. Shortest Palindrome
