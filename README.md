@@ -69,6 +69,7 @@
 - [2025/07/05] 1394. Find Lucky Integer in an Array
 - [2025/07/26] 3487. Maximum Unique Subarray Sum After Deletion
 - [2025/09/22] 3005. Count Elements With Maximum Frequency
+- [2025/10/31] 3289. The Two Sneaky Numbers of Digitville
 
 ### Two Pointer
 - [2024/09/07] 26. Remove Duplicates from Sorted Array
@@ -164,6 +165,7 @@
 - [2025/03/19] 3191. Minimum Operations to Make Binary Array Elements Equal to One I
 - [2025/07/28] 2044. Count Number of Maximum Bitwise-OR Subsets
 - [2025/07/29] 2411. Smallest Subarrays With Maximum Bitwise OR
+- [2025/10/30] 3370. Smallest Number With All Set Bits
 
 ### String
 - [2024/05/01] 2000. Reverse Prefix of Word
