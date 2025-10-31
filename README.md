@@ -231,6 +231,7 @@
 - [2025/04/25] 2845. Count of Interesting Subarrays
 - [2025/04/30] 2145. Count the Hidden Sequences
 - [2025/10/29] 3354. Make Array Elements Equal to Zero
+- [2025/10/31] 3355. Zero Array Transformation I
 
 ### Linked List
 - [2024/03/21] 206. Reverse Linked List
