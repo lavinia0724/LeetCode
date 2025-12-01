@@ -14,6 +14,7 @@
 - [2025/07/27] 2210. Count Hills and Valleys in an Array
 - [2025/08/01] 118. Pascal's Triangle
 - [2025/10/18] 3349. Adjacent Increasing Subarrays Detection I
+- [2025/11/29] 3512. Minimum Operations to Make Array Sum Divisible by K
 
 ### Matrix
 - [2024/07/19] 1380. Lucky Numbers in a Matrix
@@ -285,6 +286,7 @@
 - [2025/04/03] 2594. Minimum Time to Repair Cars
 - [2025/04/30] 2563. Count the Number of Fair Pairs
 - [2025/05/01] 2071. Maximum Number of Tasks You Can Assign
+- [2025/12/01] 2141. Maximum Running Time of N Computers
 
 ### BFS
 - [2024/04/22] 752. Open the Lock
