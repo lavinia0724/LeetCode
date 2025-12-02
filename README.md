@@ -72,6 +72,7 @@
 - [2025/09/22] 3005. Count Elements With Maximum Frequency
 - [2025/10/31] 3289. The Two Sneaky Numbers of Digitville
 - [2025/11/07] 3318. Find X-Sum of All K-Long Subarrays I
+- [2025/12/02] 3623. Count Number of Trapezoids I
 
 ### Two Pointer
 - [2024/09/07] 26. Remove Duplicates from Sorted Array
