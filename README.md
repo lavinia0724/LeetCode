@@ -72,7 +72,6 @@
 - [2025/09/22] 3005. Count Elements With Maximum Frequency
 - [2025/10/31] 3289. The Two Sneaky Numbers of Digitville
 - [2025/11/07] 3318. Find X-Sum of All K-Long Subarrays I
-- [2025/12/02] 3623. Count Number of Trapezoids I
 
 ### Two Pointer
 - [2024/09/07] 26. Remove Duplicates from Sorted Array
@@ -155,6 +154,10 @@
 - [2025/09/27] 812. Largest Triangle Area
 - [2025/09/28] 2338. Count the Number of Ideal Arrays
 - [2025/10/26] 1716. Calculate Money in Leetcode Bank
+
+### Geometry
+- [2025/12/02] 3623. Count Number of Trapezoids I
+- [2025/12/03] 3625. Count Number of Trapezoids II
 
 ### Bit Manipulation
 - [2024/05/20] [1863. Sum of All Subset XOR Totals](https://lavinia0724.github.io/2024/05/20/LeetCode-1863-Sum-of-All-Subset-XOR-Totals/)
