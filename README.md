@@ -239,6 +239,7 @@
 - [2025/04/30] 2145. Count the Hidden Sequences
 - [2025/10/29] 3354. Make Array Elements Equal to Zero
 - [2025/10/31] 3355. Zero Array Transformation I
+- [2025/12/05] 3432. Count Partitions with Even Sum Difference
 
 ### Linked List
 - [2024/03/21] 206. Reverse Linked List
