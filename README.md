@@ -396,6 +396,7 @@
 - [2025/08/08] [808. Soup Servings](https://lavinia0724.github.io/2025/08/08/LeetCode-880-Soup-Servings/)
 - [2025/09/23] 2901. Longest Unequal Adjacent Groups Subsequence II
 - [2025/09/25] 120. Triangle
+- [2025/12/05] 3343. Count Number of Balanced Permutations
 
 ### Segment Tree
 - [2025/08/06] [3479. Fruits Into Baskets III](https://lavinia0724.github.io/2025/08/06/LeetCode-3479-Fruits-Into-Baskets-III/)
