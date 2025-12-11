@@ -74,6 +74,7 @@
 - [2025/10/31] 3289. The Two Sneaky Numbers of Digitville
 - [2025/11/07] 3318. Find X-Sum of All K-Long Subarrays I
 - [2025/12/09] 3583. Count Special Triplets
+- [2025/12/11] 3531. Count Covered Buildings
 
 ### Two Pointer
 - [2024/09/07] 26. Remove Duplicates from Sorted Array
