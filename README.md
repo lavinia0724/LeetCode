@@ -178,6 +178,7 @@
 - [2025/07/28] 2044. Count Number of Maximum Bitwise-OR Subsets
 - [2025/07/29] 2411. Smallest Subarrays With Maximum Bitwise OR
 - [2025/10/30] 3370. Smallest Number With All Set Bits
+- [2025/12/17] 3068. Find the Maximum Sum of Node Values
 
 ### String
 - [2024/05/01] 2000. Reverse Prefix of Word
