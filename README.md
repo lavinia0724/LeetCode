@@ -133,6 +133,7 @@
 - [2025/04/29] 2799. Count Complete Subarrays in an Array
 - [2025/07/22] 1695. Maximum Erasure Value
 - [2025/09/30] 1031. Maximum Sum of Two Non-Overlapping Subarrays
+- [2025/12/18] 3652. Best Time to Buy and Sell Stock using Strategy
  
 ### Monotonic Queue
 - [2025/04/26] 2444. Count Subarrays With Fixed Bounds
