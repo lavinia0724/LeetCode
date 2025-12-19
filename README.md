@@ -307,6 +307,7 @@
 - [2024/12/25] 515. Find Largest Value in Each Tree Row
 - [2025/01/23] 1765. Map of Highest Peak
 - [2025/03/28] 2503. Maximum Number of Points From Grid Queries
+- [2025/12/19] 2092. Find All People With Secret
 
 ### DFS
 - [2024/04/21] 1971. Find if Path Exists in Graph
