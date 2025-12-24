@@ -96,6 +96,7 @@
 - [2025/03/24] 3169. Count Days Without Meetings
 - [2025/03/25] 3394. Check if Grid can be Cut into Sections
 - [2025/06/28] 2099. Find Subsequence of Length K With the Largest Sum
+- [2025/12/24] 3074. Apple Redistribution into Boxes
 
 ### Topological Sort
 - [2024/07/25] 2392. Build a Matrix With Conditions
