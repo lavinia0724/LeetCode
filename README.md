@@ -15,6 +15,7 @@
 - [2025/08/01] 118. Pascal's Triangle
 - [2025/10/18] 3349. Adjacent Increasing Subarrays Detection I
 - [2025/11/29] 3512. Minimum Operations to Make Array Sum Divisible by K
+- [2026/01/01] 66. Plus One
 
 ### Matrix
 - [2024/07/19] 1380. Lucky Numbers in a Matrix
