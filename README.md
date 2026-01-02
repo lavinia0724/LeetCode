@@ -77,6 +77,7 @@
 - [2025/11/07] 3318. Find X-Sum of All K-Long Subarrays I
 - [2025/12/09] 3583. Count Special Triplets
 - [2025/12/11] 3531. Count Covered Buildings
+- [2026/01/02] 961. N-Repeated Element in Size 2N Array
 
 ### Two Pointer
 - [2024/09/07] 26. Remove Duplicates from Sorted Array
