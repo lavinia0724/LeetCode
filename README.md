@@ -414,6 +414,7 @@
 - [2025/12/06] 3578. Count Partitions With Max-Min Difference at Most K
 - [2025/12/17] 3573. Best Time to Buy and Sell Stock V
 - [2025/12/17] 1931. Painting a Grid With Three Different Colors
+- [2026/01/03] 1411. Number of Ways to Paint N × 3 Grid
 
 ### Segment Tree
 - [2025/08/06] [3479. Fruits Into Baskets III](https://lavinia0724.github.io/2025/08/06/LeetCode-3479-Fruits-Into-Baskets-III/)
