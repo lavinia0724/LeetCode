@@ -165,6 +165,7 @@
 - [2025/10/26] 1716. Calculate Money in Leetcode Bank
 - [2025/12/07] 1523. Count Odd Numbers in an Interval Range
 - [2025/12/10] 3577. Count the Number of Computer Unlocking Permutations
+- [2026/01/04] 1390. Four Divisors
 
 ### Geometry
 - [2025/12/02] 3623. Count Number of Trapezoids I
@@ -414,7 +415,7 @@
 - [2025/12/06] 3578. Count Partitions With Max-Min Difference at Most K
 - [2025/12/17] 3573. Best Time to Buy and Sell Stock V
 - [2025/12/17] 1931. Painting a Grid With Three Different Colors
-- [2026/01/03] 1411. Number of Ways to Paint N × 3 Grid
+- [2026/01/03] [1411. Number of Ways to Paint N × 3 Grid](https://lavinia0724.github.io/2026/01/03/LeetCode-1411-Number-of-Ways-to-Paint-N-%C3%97-3-Grid/)
 
 ### Segment Tree
 - [2025/08/06] [3479. Fruits Into Baskets III](https://lavinia0724.github.io/2025/08/06/LeetCode-3479-Fruits-Into-Baskets-III/)
