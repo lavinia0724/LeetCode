@@ -34,6 +34,7 @@
 - [2025/03/12] 2529. Maximum Count of Positive Integer and Negative Integer
 - [2025/04/02] 2873. Maximum Value of an Ordered Triplet I
 - [2025/12/28] 1351. Count Negative Numbers in a Sorted Matrix
+- [2026/01/05] 1975. Maximum Matrix Sum
 
 ### Enumeration
 - [2025/04/11] 2843. Count Symmetric Integers
