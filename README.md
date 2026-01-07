@@ -326,6 +326,7 @@
 - [2024/08/28] 1905. Count Sub Islands
 - [2024/08/29] 947. Most Stones Removed with Same Row or Column
 - [2024/09/19] 241. Different Ways to Add Parentheses
+- [2026/01/07] 1339. Maximum Product of Splitted Binary Tree
 
 ### Backtracking
 - [2024/05/22] 131. Palindrome Partitioning
