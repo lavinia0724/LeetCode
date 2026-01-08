@@ -106,6 +106,7 @@
 - [2024/07/25] 2392. Build a Matrix With Conditions
 - [2025/01/24] 802. Find Eventual Safe States
 - [2025/03/21] 2115. Find All Possible Recipes from Given Supplies
+- [2026/01/08] 1857. Largest Color Value in a Directed Graph
 
 ### Simulation
 - [2024/07/09] 1701. Average Waiting Time
