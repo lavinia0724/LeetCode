@@ -423,6 +423,7 @@
 - [2025/12/17] 1931. Painting a Grid With Three Different Colors
 - [2026/01/03] [1411. Number of Ways to Paint N × 3 Grid](https://lavinia0724.github.io/2026/01/03/LeetCode-1411-Number-of-Ways-to-Paint-N-%C3%97-3-Grid/)
 - [2026/01/08] 1458. Max Dot Product of Two Subsequences
+- [2026/01/10] 712. Minimum ASCII Delete Sum for Two Strings
 
 ### Segment Tree
 - [2025/08/06] [3479. Fruits Into Baskets III](https://lavinia0724.github.io/2025/08/06/LeetCode-3479-Fruits-Into-Baskets-III/)
