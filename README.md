@@ -169,6 +169,7 @@
 - [2025/12/07] 1523. Count Odd Numbers in an Interval Range
 - [2025/12/10] 3577. Count the Number of Computer Unlocking Permutations
 - [2026/01/04] 1390. Four Divisors
+- [2026/01/12] 1266. Minimum Time Visiting All Points
 
 ### Geometry
 - [2025/12/02] 3623. Count Number of Trapezoids I
