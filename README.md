@@ -311,6 +311,7 @@
 - [2025/04/30] 2563. Count the Number of Fair Pairs
 - [2025/05/01] 2071. Maximum Number of Tasks You Can Assign
 - [2025/12/01] 2141. Maximum Running Time of N Computers
+- [2026/01/13] 3453. Separate Squares I
 
 ### BFS
 - [2024/04/22] 752. Open the Lock
