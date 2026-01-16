@@ -80,6 +80,7 @@
 - [2025/12/09] 3583. Count Special Triplets
 - [2025/12/11] 3531. Count Covered Buildings
 - [2026/01/02] 961. N-Repeated Element in Size 2N Array
+- [2026/01/16] 2975. Maximum Square Area by Removing Fences From a Field
 
 ### Two Pointer
 - [2024/09/07] 26. Remove Duplicates from Sorted Array
