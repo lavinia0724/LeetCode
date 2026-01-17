@@ -176,6 +176,7 @@
 ### Geometry
 - [2025/12/02] 3623. Count Number of Trapezoids I
 - [2025/12/03] 3625. Count Number of Trapezoids II
+- [2026/01/17] 3047. Find the Largest Area of Square Inside Two Rectangles
 
 ### Bit Manipulation
 - [2024/05/20] [1863. Sum of All Subset XOR Totals](https://lavinia0724.github.io/2024/05/20/LeetCode-1863-Sum-of-All-Subset-XOR-Totals/)
