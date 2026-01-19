@@ -316,6 +316,7 @@
 - [2025/05/01] 2071. Maximum Number of Tasks You Can Assign
 - [2025/12/01] 2141. Maximum Running Time of N Computers
 - [2026/01/13] 3453. Separate Squares I
+- [2026/01/19] 1292. Maximum Side Length of a Square with Sum Less than or Equal to Threshold
 
 ### BFS
 - [2024/04/22] 752. Open the Lock
