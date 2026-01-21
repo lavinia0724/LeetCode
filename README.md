@@ -193,6 +193,7 @@
 - [2025/10/30] 3370. Smallest Number With All Set Bits
 - [2025/12/17] 3068. Find the Maximum Sum of Node Values
 - [2026/01/20] 3314. Construct the Minimum Bitwise Array I
+- [2026/01/21] 3315. Construct the Minimum Bitwise Array II
 
 ### String
 - [2024/05/01] 2000. Reverse Prefix of Word
