@@ -105,6 +105,7 @@
 - [2025/06/28] 2099. Find Subsequence of Length K With the Largest Sum
 - [2025/12/24] 3074. Apple Redistribution into Boxes
 - [2026/01/15] 2943. Maximize Area of Square Hole in Grid
+- [2026/01/25] 1984. Minimum Difference Between Highest and Lowest of K Scores
 
 ### Topological Sort
 - [2024/07/25] 2392. Build a Matrix With Conditions
