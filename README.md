@@ -365,6 +365,7 @@
 - [2025/02/13] 3066. Minimum Operations to Exceed Threshold Value II
 - [2025/03/31] 2551. Put Marbles in Bags
 - [2026/01/10] 3362. Zero Array Transformation III
+- [2026/01/27] 3650. Minimum Cost Path with Edge Reversals
 
 ### Disjoint Set
 - [2025/03/24] 2685. Count the Number of Complete Components
