@@ -50,6 +50,7 @@
 - [2025/12/01] 2141. Maximum Running Time of N Computers
 - [2026/01/13] 3453. Separate Squares I
 - [2026/01/19] 1292. Maximum Side Length of a Square with Sum Less than or Equal to Threshold
+- [2026/01/31] 744. Find Smallest Letter Greater Than Target
 
 ### Binary Tree
 - [2024/08/25] 145. Binary Tree Postorder Traversal
@@ -151,6 +152,7 @@
 - [2024/07/03] 1509. Minimum Difference Between Largest and Smallest Value in Three Moves
 - [2024/07/12] [2025/07/23] 1717. Maximum Score From Removing Substrings
 - [2024/12/22] 1942. The Number of the Smallest Unoccupied Chair
+- [2025/05/03] 1007. Minimum Domino Rotations For Equal Row
 - [2025/09/28] 976. Largest Perimeter Triangle
 
 ### Hash Table
