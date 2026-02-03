@@ -18,6 +18,7 @@
 - [2026/01/01] 66. Plus One
 - [2026/01/22] 3507. Minimum Pair Removal to Sort Array I
 - [2026/02/01] 3010. Divide an Array Into Subarrays With Minimum Cost I
+- [2026/02/03] 3637. Trionic Array I
 
 ### Backtracking
 - [2024/05/22] 131. Palindrome Partitioning
