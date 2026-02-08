@@ -86,6 +86,7 @@
 - [2024/09/19] 241. Different Ways to Add Parentheses
 - [2026/01/07] 1339. Maximum Product of Splitted Binary Tree
 - [2026/01/09] 865. Smallest Subtree with all the Deepest Nodes
+- [2026/02/08] 110. Balanced Binary Tree
 
 ### Dijkstra
 - [2024/07/28] 2045. Second Minimum Time to Reach Destination
