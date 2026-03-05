@@ -419,6 +419,7 @@
 - [2025/10/23] 3461. Check If Digits Are Equal in String After Operations I
 - [2025/12/21] 944. Delete Columns to Make Sorted
 - [2025/12/21] 955. Delete Columns to Make Sorted II
+- [2026/03/05] 1758. Minimum Changes To Make Alternating Binary String
 
 ### Topological Sort
 - [2024/07/25] 2392. Build a Matrix With Conditions
