@@ -420,6 +420,7 @@
 - [2025/12/21] 944. Delete Columns to Make Sorted
 - [2025/12/21] 955. Delete Columns to Make Sorted II
 - [2026/03/05] 1758. Minimum Changes To Make Alternating Binary String
+- [2026/03/06] 1784. Check if Binary String Has at Most One Segment of Ones
 
 ### Topological Sort
 - [2024/07/25] 2392. Build a Matrix With Conditions
