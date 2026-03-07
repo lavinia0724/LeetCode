@@ -340,7 +340,8 @@
 - [2025/07/22] 1695. Maximum Erasure Value
 - [2025/09/30] 1031. Maximum Sum of Two Non-Overlapping Subarrays
 - [2025/12/18] 3652. Best Time to Buy and Sell Stock using Strategy
- 
+- [2026/03/07] 1888. Minimum Number of Flips to Make the Binary String Alternating
+
 ### Sorting
 - [2024/07/25] 912. Sort an Array
 - [2024/08/03] 1460. Make Two Arrays Equal by Reversing Subarrays
