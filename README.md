@@ -53,6 +53,7 @@
 - [2026/01/13] 3453. Separate Squares I
 - [2026/01/19] 1292. Maximum Side Length of a Square with Sum Less than or Equal to Threshold
 - [2026/01/31] 744. Find Smallest Letter Greater Than Target
+- [2026/03/08] 1545. Find Kth Bit in Nth Binary String
 
 ### Binary Tree
 - [2024/08/25] 145. Binary Tree Postorder Traversal
