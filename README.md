@@ -132,6 +132,7 @@
 - [2026/01/03] [1411. Number of Ways to Paint N × 3 Grid](https://lavinia0724.github.io/2026/01/03/LeetCode-1411-Number-of-Ways-to-Paint-N-%C3%97-3-Grid/)
 - [2026/01/08] 1458. Max Dot Product of Two Subsequences
 - [2026/01/10] 712. Minimum ASCII Delete Sum for Two Strings
+- [2026/03/09] 3129. Find All Possible Stable Binary Arrays I
 
 ### Enumeration
 - [2025/04/11] 2843. Count Symmetric Integers
