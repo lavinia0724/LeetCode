@@ -101,6 +101,7 @@
 ### Disjoint Set
 - [2025/03/24] 2685. Count the Number of Complete Components
 - [2025/04/04] 3108. Minimum Cost Walk in Weighted Graph
+- [2026/03/12] 3600. Maximize Spanning Tree Stability with Upgrades
 
 ### DP
 - [2024/04/26] [2370. Longest Ideal Subsequence.cpp](https://lavinia0724.github.io/2024/04/25/LeetCode-2370-Longest-Ideal-Subsequence/)
