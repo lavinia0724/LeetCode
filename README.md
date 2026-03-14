@@ -163,6 +163,7 @@
 - [2024/12/22] 1942. The Number of the Smallest Unoccupied Chair
 - [2025/05/03] 1007. Minimum Domino Rotations For Equal Row
 - [2025/09/28] 976. Largest Perimeter Triangle
+- [2026/03/14] 1536. Minimum Swaps to Arrange a Binary Grid
 
 ### Hash Table
 - [2024/08/06] 3016. Minimum Number of Pushes to Type Word II
