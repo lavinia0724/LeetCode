@@ -272,6 +272,7 @@
 - [2025/12/10] 3577. Count the Number of Computer Unlocking Permutations
 - [2026/01/04] 1390. Four Divisors
 - [2026/01/12] 1266. Minimum Time Visiting All Points
+- [2026/03/15] 1622. Fancy Sequence
 
 ### Matrix
 - [2024/07/19] 1380. Lucky Numbers in a Matrix
