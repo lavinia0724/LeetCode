@@ -137,6 +137,7 @@
 - [2026/01/10] 712. Minimum ASCII Delete Sum for Two Strings
 - [2026/03/09] 3129. Find All Possible Stable Binary Arrays I
 - [2026/03/10] 3130. Find All Possible Stable Binary Arrays II
+- [2026/04/06] 3661. Maximum Walls Destroyed by Robots
 
 ### Enumeration
 - [2025/04/11] 2843. Count Symmetric Integers
