@@ -332,6 +332,7 @@
 - [2025/10/02] 3100. Water Bottles II
 - [2025/12/04] 2211. Count Collisions on a Road
 - [2026/04/05] 657. Robot Return to Origin
+- [2026/04/07] 2069. Walking Robot Simulation II
 
 ### Sliding Window
 - [2024/08/02] 2134. Minimum Swaps to Group All 1's Together II
