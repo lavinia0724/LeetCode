@@ -333,6 +333,7 @@
 - [2025/12/04] 2211. Count Collisions on a Road
 - [2026/04/05] 657. Robot Return to Origin
 - [2026/04/07] 2069. Walking Robot Simulation II
+- [2026/04/08] 3653. XOR After Range Multiplication Queries I
 
 ### Sliding Window
 - [2024/08/02] 2134. Minimum Swaps to Group All 1's Together II
