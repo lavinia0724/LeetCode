@@ -274,6 +274,7 @@
 - [2026/01/04] 1390. Four Divisors
 - [2026/01/12] 1266. Minimum Time Visiting All Points
 - [2026/03/15] 1622. Fancy Sequence
+- [2026/04/09] 3655. XOR After Range Multiplication Queries II
 
 ### Matrix
 - [2024/07/19] 1380. Lucky Numbers in a Matrix
