@@ -205,6 +205,8 @@
 - [2026/01/02] 961. N-Repeated Element in Size 2N Array
 - [2026/01/16] 2975. Maximum Square Area by Removing Fences From a Field
 - [2026/04/09] 169. Majority Element
+- [2026/04/10] 3740. Minimum Distance Between Three Equal Elements I
+- [2026/04/11] 3741. Minimum Distance Between Three Equal Elements II
 
 ### Heap
 - [2024/05/10] 786. K-th Smallest Prime Fraction
