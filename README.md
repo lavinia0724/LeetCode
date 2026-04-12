@@ -138,6 +138,7 @@
 - [2026/03/09] 3129. Find All Possible Stable Binary Arrays I
 - [2026/03/10] 3130. Find All Possible Stable Binary Arrays II
 - [2026/04/06] 3661. Maximum Walls Destroyed by Robots
+- [2026/04/13] 1320. Minimum Distance to Type a Word Using Two Fingers
 
 ### Enumeration
 - [2025/04/11] 2843. Count Symmetric Integers
