@@ -19,6 +19,7 @@
 - [2026/01/22] 3507. Minimum Pair Removal to Sort Array I
 - [2026/02/01] 3010. Divide an Array Into Subarrays With Minimum Cost I
 - [2026/02/03] 3637. Trionic Array I
+- [2026/04/13] 1848. Minimum Distance to the Target Element
 
 ### Backtracking
 - [2024/05/22] 131. Palindrome Partitioning
@@ -138,7 +139,8 @@
 - [2026/03/09] 3129. Find All Possible Stable Binary Arrays I
 - [2026/03/10] 3130. Find All Possible Stable Binary Arrays II
 - [2026/04/06] 3661. Maximum Walls Destroyed by Robots
-- [2026/04/13] 1320. Minimum Distance to Type a Word Using Two Fingers
+- [2026/04/12] 1320. Minimum Distance to Type a Word Using Two Fingers
+- [2026/04/14] 2463. Minimum Total Distance Traveled
 
 ### Enumeration
 - [2025/04/11] 2843. Count Symmetric Integers
