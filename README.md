@@ -20,6 +20,7 @@
 - [2026/02/01] 3010. Divide an Array Into Subarrays With Minimum Cost I
 - [2026/02/03] 3637. Trionic Array I
 - [2026/04/13] 1848. Minimum Distance to the Target Element
+- [2026/04/15] 2515. Shortest Distance to Target String in a Circular Array
 
 ### Backtracking
 - [2024/05/22] 131. Palindrome Partitioning
