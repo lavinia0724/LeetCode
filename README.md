@@ -211,6 +211,7 @@
 - [2026/04/09] 169. Majority Element
 - [2026/04/10] 3740. Minimum Distance Between Three Equal Elements I
 - [2026/04/11] 3741. Minimum Distance Between Three Equal Elements II
+- [2026/04/16] 3488. Closest Equal Element Queries
 
 ### Heap
 - [2024/05/10] 786. K-th Smallest Prime Fraction
