@@ -474,3 +474,4 @@
 - [2025/03/30] 763. Partition Labels
 - [2024/06/13] [2025/05/23] 75. Sort Colors
 - [2025/09/26] 611. Valid Triangle Number
+- [2026/04/19] 1855. Maximum Distance Between a Pair of Values
