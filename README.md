@@ -57,6 +57,7 @@
 - [2026/01/31] 744. Find Smallest Letter Greater Than Target
 - [2026/03/08] 1545. Find Kth Bit in Nth Binary String
 - [2026/03/13] 3296. Minimum Number of Seconds to Make Mountain Height Zero
+- [2026/04/19] 35. Search Insert Position
 
 ### Binary Tree
 - [2024/08/25] 145. Binary Tree Postorder Traversal
