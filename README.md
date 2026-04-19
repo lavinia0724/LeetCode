@@ -212,6 +212,7 @@
 - [2026/04/10] 3740. Minimum Distance Between Three Equal Elements I
 - [2026/04/11] 3741. Minimum Distance Between Three Equal Elements II
 - [2026/04/16] 3488. Closest Equal Element Queries
+- [2026/04/19] 3761. Minimum Absolute Distance Between Mirror Pairs
 
 ### Heap
 - [2024/05/10] 786. K-th Smallest Prime Fraction
