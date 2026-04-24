@@ -327,6 +327,7 @@
 - [2025/10/31] 3355. Zero Array Transformation I
 - [2025/12/05] 3432. Count Partitions with Even Sum Difference
 - [2026/01/18] 1895. Largest Magic Square
+- [2026/04/24] 2615. Sum of Distances
 
 ### Segment Tree
 - [2025/08/06] [3479. Fruits Into Baskets III](https://lavinia0724.github.io/2025/08/06/LeetCode-3479-Fruits-Into-Baskets-III/)
