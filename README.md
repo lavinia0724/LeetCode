@@ -58,6 +58,7 @@
 - [2026/03/08] 1545. Find Kth Bit in Nth Binary String
 - [2026/03/13] 3296. Minimum Number of Seconds to Make Mountain Height Zero
 - [2026/04/19] 35. Search Insert Position
+- [2026/04/20] 74. Search a 2D Matrix
 
 ### Binary Tree
 - [2024/08/25] 145. Binary Tree Postorder Traversal
@@ -449,6 +450,7 @@
 - [2026/03/06] 1784. Check if Binary String Has at Most One Segment of Ones
 - [2026/03/29] 2839. Check if Strings Can be Made Equal With Operations I
 - [2026/04/04] 2075. Decode the Slanted Ciphertext
+- [2026/04/24] 2833. Furthest Point From Origin
 
 ### Topological Sort
 - [2024/07/25] 2392. Build a Matrix With Conditions
