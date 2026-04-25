@@ -59,6 +59,7 @@
 - [2026/03/13] 3296. Minimum Number of Seconds to Make Mountain Height Zero
 - [2026/04/19] 35. Search Insert Position
 - [2026/04/20] 74. Search a 2D Matrix
+- [2026/04/25] 3464. Maximize the Distance Between Points on a Square
 
 ### Binary Tree
 - [2024/08/25] 145. Binary Tree Postorder Traversal
