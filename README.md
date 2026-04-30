@@ -145,6 +145,7 @@
 - [2026/04/06] 3661. Maximum Walls Destroyed by Robots
 - [2026/04/12] 1320. Minimum Distance to Type a Word Using Two Fingers
 - [2026/04/14] 2463. Minimum Total Distance Traveled
+- [2026/04/30] 3742. Maximum Path Score in a Grid
 
 ### Enumeration
 - [2025/04/11] 2843. Count Symmetric Integers
