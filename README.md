@@ -293,6 +293,7 @@
 - [2026/04/09] 3655. XOR After Range Multiplication Queries II
 - [2026/04/19] 3783. Mirror Distance of an Integer
 - [2026/05/01] 396. Rotate Function
+- [2026/05/02] 788. Rotated Digits
 
 ### Matrix
 - [2024/07/19] 1380. Lucky Numbers in a Matrix
