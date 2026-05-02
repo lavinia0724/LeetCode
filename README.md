@@ -147,7 +147,8 @@
 - [2026/04/14] 2463. Minimum Total Distance Traveled
 - [2026/04/30] 3742. Maximum Path Score in a Grid
 - [2026/05/01] 64. Minimum Path Sum
-- [2026/05/02] 63. Unique Paths II
+- [2026/05/01] 63. Unique Paths II
+- [2026/05/02] 5. Longest Palindromic Substring
 
 ### Enumeration
 - [2025/04/11] 2843. Count Symmetric Integers
