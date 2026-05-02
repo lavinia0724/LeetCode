@@ -150,6 +150,7 @@
 - [2026/05/01] 63. Unique Paths II
 - [2026/05/02] 5. Longest Palindromic Substring
 - [2026/05/02] 97. Interleaving String
+- [2026/05/02] 72. Edit Distance
 
 ### Enumeration
 - [2025/04/11] 2843. Count Symmetric Integers
