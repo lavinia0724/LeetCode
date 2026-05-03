@@ -467,6 +467,7 @@
 - [2026/03/29] 2839. Check if Strings Can be Made Equal With Operations I
 - [2026/04/04] 2075. Decode the Slanted Ciphertext
 - [2026/04/24] 2833. Furthest Point From Origin
+- [2026/05/03] 796. Rotate String
 
 ### Topological Sort
 - [2024/07/25] 2392. Build a Matrix With Conditions
