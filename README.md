@@ -156,6 +156,18 @@
 - [2026/05/02] 122. Best Time to Buy and Sell Stock II
 - [2026/05/02] 123. Best Time to Buy and Sell Stock III
 - [2026/05/02] 188. Best Time to Buy and Sell Stock IV
+- [2026/05/03] 70. Climbing Stairs
+- [2026/05/03] 139. Word Break
+- [2026/05/03] 322. Coin Change
+- [2026/05/03] 518. Coin Change II
+- [2026/05/03] 279. Perfect Squares
+- [2026/05/03] 377. Combination Sum IV
+- [2026/05/03] 474. Ones and Zeroes
+- [2026/05/03] 1049. Last Stone Weight II
+- [2026/05/03] 2915. Length of the Longest Subsequence That Sums to Target
+- [2026/05/03] 2787. Ways to Express an Integer as Sum of Powers
+- [2026/05/03] 879. Profitable Schemes
+- [2026/05/03] 1155. Number of Dice Rolls With Target Sum
 
 ### Enumeration
 - [2025/04/11] 2843. Count Symmetric Integers
