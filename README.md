@@ -335,6 +335,7 @@
 - [2026/01/05] 1975. Maximum Matrix Sum
 - [2026/01/08] 73. Set Matrix Zeroes
 - [2026/03/04] 1582. Special Positions in a Binary Matrix
+- [2026/05/04] 48. Rotate Image
 
 ### Monotonic Queue
 - [2025/04/26] 2444. Count Subarrays With Fixed Bounds
