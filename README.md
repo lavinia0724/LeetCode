@@ -61,6 +61,7 @@
 - [2026/04/20] 74. Search a 2D Matrix
 - [2026/04/25] 3464. Maximize the Distance Between Points on a Square
 - [2026/05/04] 69. Sqrt(x)
+- [2026/05/04] 149. Max Points on a Line
 
 ### Binary Tree
 - [2024/08/25] 145. Binary Tree Postorder Traversal
