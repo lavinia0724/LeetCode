@@ -60,6 +60,7 @@
 - [2026/04/19] 35. Search Insert Position
 - [2026/04/20] 74. Search a 2D Matrix
 - [2026/04/25] 3464. Maximize the Distance Between Points on a Square
+- [2026/05/04] 69. Sqrt(x)
 
 ### Binary Tree
 - [2024/08/25] 145. Binary Tree Postorder Traversal
@@ -314,6 +315,7 @@
 - [2026/04/19] 3783. Mirror Distance of an Integer
 - [2026/05/01] 396. Rotate Function
 - [2026/05/02] 788. Rotated Digits
+- [2026/05/04] 172. Factorial Trailing Zeroes
 
 ### Matrix
 - [2024/07/19] 1380. Lucky Numbers in a Matrix
