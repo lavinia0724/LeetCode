@@ -64,6 +64,9 @@
 - [2026/05/04] 149. Max Points on a Line
 - [2026/05/05] 162. Find Peak Element
 - [2026/05/05] 153. Find Minimum in Rotated Sorted Array
+- [2026/05/05] 33. Search in Rotated Sorted Array
+- [2026/05/05] 34. Find First and Last Position of Element in Sorted Array
+- [2026/05/05] 4. Median of Two Sorted Arrays
 
 ### Binary Tree
 - [2024/08/25] 145. Binary Tree Postorder Traversal
