@@ -62,6 +62,8 @@
 - [2026/04/25] 3464. Maximize the Distance Between Points on a Square
 - [2026/05/04] 69. Sqrt(x)
 - [2026/05/04] 149. Max Points on a Line
+- [2026/05/05] 162. Find Peak Element
+- [2026/05/05] 153. Find Minimum in Rotated Sorted Array
 
 ### Binary Tree
 - [2024/08/25] 145. Binary Tree Postorder Traversal
