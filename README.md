@@ -285,6 +285,7 @@
 - [2024/09/10] 2807. Insert Greatest Common Divisors in Linked List
 - [2024/09/28] 641. Design Circular Deque
 - [2025/07/14] 1290. Convert Binary Number in a Linked List to Integer
+- [2026/05/05] 61. Rotate List
 
 ### Math
 - [2024/05/02] 1688. Count of Matches in Tournament
