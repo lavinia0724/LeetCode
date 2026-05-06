@@ -175,6 +175,7 @@
 - [2026/05/03] 2787. Ways to Express an Integer as Sum of Powers
 - [2026/05/03] 879. Profitable Schemes
 - [2026/05/03] 1155. Number of Dice Rolls With Target Sum
+- [2026/05/06] 45. Jump Game II
 
 ### Enumeration
 - [2025/04/11] 2843. Count Symmetric Integers
@@ -202,6 +203,7 @@
 - [2025/05/03] 1007. Minimum Domino Rotations For Equal Row
 - [2025/09/28] 976. Largest Perimeter Triangle
 - [2026/03/14] 1536. Minimum Swaps to Arrange a Binary Grid
+- [2026/05/06] 55. Jump Game
 
 ### Hash Table
 - [2024/08/06] 3016. Minimum Number of Pushes to Type Word II
