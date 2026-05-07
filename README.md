@@ -122,7 +122,6 @@
 - [2024/08/20] 1140. Stone Game II
 - [2024/08/21] 664. Strange Printer
 - [2024/10/01] 2707. Extra Characters in a String
-- [2024/12/26] 494. Target Sum
 - [2024/12/27] 1014. Best Sightseeing Pair
 - [2024/12/29] 1639. Number of Ways to Form a Target String Given a Dictionary
 - [2024/12/30] 2466. Count Ways To Build Good Strings
@@ -131,7 +130,6 @@
 - [2025/04/01] 2140. Solving Questions With Brainpower
 - [2025/04/01] 198. House Robber
 - [2025/04/06] 368. Largest Divisible Subset
-- [2025/04/08] 416. Partition Equal Subset Sum
 - [2025/04/10] 2999. Count the Number of Powerful Integers
 - [2025/05/14] 3337. Total Characters in String After Transformations II
 - [2025/05/14] 838. Push Dominoes
@@ -165,6 +163,11 @@
 - [2026/05/02] 188. Best Time to Buy and Sell Stock IV
 - [2026/05/03] 70. Climbing Stairs
 - [2026/05/03] 139. Word Break
+- [2026/05/06] 45. Jump Game II
+
+### DP - Knapsack
+- [2024/12/26] 494. Target Sum
+- [2025/04/08] 416. Partition Equal Subset Sum
 - [2026/05/03] 322. Coin Change
 - [2026/05/03] 518. Coin Change II
 - [2026/05/03] 279. Perfect Squares
@@ -175,7 +178,14 @@
 - [2026/05/03] 2787. Ways to Express an Integer as Sum of Powers
 - [2026/05/03] 879. Profitable Schemes
 - [2026/05/03] 1155. Number of Dice Rolls With Target Sum
-- [2026/05/06] 45. Jump Game II
+
+
+### DP - LIS
+- [2026/05/07] 300. Longest Increasing Subsequence
+- [2026/05/07] 673. Number of Longest Increasing Subsequence
+- [2026/05/07] 674. Longest Continuous Increasing Subsequence
+- [2026/05/07] 354. Russian Doll Envelopes
+- [2026/05/07] 646. Maximum Length of Pair Chain
 
 ### Enumeration
 - [2025/04/11] 2843. Count Symmetric Integers
@@ -367,6 +377,7 @@
 - [2026/01/18] 1895. Largest Magic Square
 - [2026/04/24] 2615. Sum of Distances
 - [2026/04/24] 2121. Intervals Between Identical Elements
+- [2026/05/07] 3660. Jump Game IX
 
 ### Segment Tree
 - [2025/08/06] [3479. Fruits Into Baskets III](https://lavinia0724.github.io/2025/08/06/LeetCode-3479-Fruits-Into-Baskets-III/)
