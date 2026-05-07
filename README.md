@@ -91,6 +91,9 @@
 - [2026/03/11] 1009. Complement of Base 10 Integer
 - [2026/05/07] 191. Number of 1 Bits
 - [2026/05/07] 67. Add Binary
+- [2026/05/07] 190. Reverse Bits
+- [2026/05/07] 136. Single Number
+- [2026/05/07] 137. Single Number II
 
 ### DFS
 - [2024/04/21] 1971. Find if Path Exists in Graph
