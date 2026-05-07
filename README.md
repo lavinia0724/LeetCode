@@ -129,7 +129,6 @@
 - [2025/02/28] 1092. Shortest Common Supersequence
 - [2025/04/01] 2140. Solving Questions With Brainpower
 - [2025/04/01] 198. House Robber
-- [2025/04/06] 368. Largest Divisible Subset
 - [2025/04/10] 2999. Count the Number of Powerful Integers
 - [2025/05/14] 3337. Total Characters in String After Transformations II
 - [2025/05/14] 838. Push Dominoes
@@ -179,13 +178,19 @@
 - [2026/05/03] 879. Profitable Schemes
 - [2026/05/03] 1155. Number of Dice Rolls With Target Sum
 
-
 ### DP - LIS
+- [2025/04/06] 368. Largest Divisible Subset
 - [2026/05/07] 300. Longest Increasing Subsequence
 - [2026/05/07] 673. Number of Longest Increasing Subsequence
 - [2026/05/07] 674. Longest Continuous Increasing Subsequence
 - [2026/05/07] 354. Russian Doll Envelopes
 - [2026/05/07] 646. Maximum Length of Pair Chain
+- [2026/05/07] 1027. Longest Arithmetic Subsequence
+- [2026/05/07] 1048. Longest String Chain
+- [2026/05/07] 2501. Longest Square Streak in an Array
+
+### DP - LCS
+- [2026/05/07] 1143. Longest Common Subsequence
 
 ### Enumeration
 - [2025/04/11] 2843. Count Symmetric Integers
