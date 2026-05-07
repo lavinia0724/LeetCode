@@ -191,6 +191,8 @@
 
 ### DP - LCS
 - [2026/05/07] 1143. Longest Common Subsequence
+- [2026/05/07] 1035. Uncrossed Lines
+- [2026/05/07] 583. Delete Operation for Two Strings
 
 ### Enumeration
 - [2025/04/11] 2843. Count Symmetric Integers
@@ -538,3 +540,4 @@
 - [2024/06/13] [2025/05/23] 75. Sort Colors
 - [2025/09/26] 611. Valid Triangle Number
 - [2026/04/19] 1855. Maximum Distance Between a Pair of Values
+- [2026/05/06] 1861. Rotating the Box
