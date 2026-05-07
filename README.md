@@ -89,6 +89,8 @@
 - [2026/01/20] 3314. Construct the Minimum Bitwise Array I
 - [2026/01/21] 3315. Construct the Minimum Bitwise Array II
 - [2026/03/11] 1009. Complement of Base 10 Integer
+- [2026/05/07] 191. Number of 1 Bits
+- [2026/05/07] 67. Add Binary
 
 ### DFS
 - [2024/04/21] 1971. Find if Path Exists in Graph
