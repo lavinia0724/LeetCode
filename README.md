@@ -29,6 +29,12 @@
 - [2025/02/16] 1718. Construct the Lexicographically Largest Valid Sequence
 - [2025/03/28] 1079. Letter Tile Possibilities
 - [2025/03/28] 1415. The k-th Lexicographical String of All Happy Strings of Length n
+- [2026/05/08] 17. Letter Combinations of a Phone Number
+- [2026/05/08] 77. Combinations
+- [2026/05/08] 46. Permutations
+- [2026/05/08] 39. Combination Sum
+- [2026/05/08] 22. Generate Parentheses
+- [2026/05/08] 79. Word Search
 
 ### BFS
 - [2024/04/22] 752. Open the Lock
