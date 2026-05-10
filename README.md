@@ -556,3 +556,4 @@
 - [2026/04/19] 1855. Maximum Distance Between a Pair of Values
 - [2026/05/06] 1861. Rotating the Box
 - [2026/05/08] 3. Longest Substring Without Repeating Characters
+- [2026/05/10] 696. Count Binary Substrings
