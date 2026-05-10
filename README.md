@@ -398,6 +398,7 @@
 - [2026/04/24] 2615. Sum of Distances
 - [2026/04/24] 2121. Intervals Between Identical Elements
 - [2026/05/07] 3660. Jump Game IX
+- [2026/05/10] 560. Subarray Sum Equals K
 
 ### Segment Tree
 - [2025/08/06] [3479. Fruits Into Baskets III](https://lavinia0724.github.io/2025/08/06/LeetCode-3479-Fruits-Into-Baskets-III/)
